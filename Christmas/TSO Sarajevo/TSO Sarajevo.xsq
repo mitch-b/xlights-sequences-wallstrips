@@ -1,0 +1,1532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2023.22.1</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song>Christmas / Sarajevo 12/24 (Instrumental)</song>
+    <artist>Trans-Siberian Orchestra</artist>
+    <album>Christmas Eve And Other Stories</album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>/Users/mitch/src/xlights-sequences-wallstrips/media/TSO Sarajevo/08 Christmas Eve (Sarajevo 12-24).mp3</mediaFile>
+    <sequenceDuration>205.333</sequenceDuration>
+    <imageDir/>
+  </head>
+  <nextid>1</nextid>
+  <Jukebox/>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette7=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_SLIDER_Brightness=216</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=Sweep,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=58,E_SLIDER_Pinwheel_Arms=9,E_SLIDER_Pinwheel_Offset=75,E_SLIDER_Pinwheel_Speed=2,E_SLIDER_Pinwheel_Thickness=29,E_SLIDER_Pinwheel_Twist=-45</Effect>
+    <Effect>E_CHECKBOX_Strobe_Music=0,E_SLIDER_Number_Strobes=120,E_SLIDER_Strobe_Duration=45,E_SLIDER_Strobe_Type=2</Effect>
+    <Effect>E_CHOICE_Butterfly_Colors=Rainbow,E_CHOICE_Butterfly_Direction=Normal,E_SLIDER_Butterfly_Chunks=1,E_SLIDER_Butterfly_Skip=2,E_SLIDER_Butterfly_Speed=10,E_SLIDER_Butterfly_Style=1</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="1" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="1" type="timing" name="New Timing" visible="1" views="Sarajevo,Breske" active="0"/>
+    <Element collapsed="1" type="timing" name="Notes" visible="1" views="Sarajevo,Breske" active="0"/>
+    <Element collapsed="1" type="timing" name="Measures" visible="1" views="Sarajevo,Breske" active="0"/>
+    <Element collapsed="0" type="model" name="All Strings" visible="1"/>
+    <Element collapsed="0" type="model" name="Single Line" visible="1"/>
+    <Element collapsed="0" type="model" name="Single Line-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Single Line-3" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer>
+        <Effect label="" startTime="0" endTime="75175"></Effect>
+        <Effect label="" startTime="75175" endTime="75500"></Effect>
+        <Effect label="" startTime="75500" endTime="75825"></Effect>
+        <Effect label="" startTime="75825" endTime="76150"></Effect>
+        <Effect label="" startTime="76150" endTime="76450"></Effect>
+        <Effect label="" startTime="76450" endTime="76775"></Effect>
+        <Effect label="" startTime="76775" endTime="77100"></Effect>
+        <Effect label="" startTime="77100" endTime="77400"></Effect>
+        <Effect label="" startTime="77400" endTime="77750"></Effect>
+        <Effect label="" startTime="77750" endTime="78100"></Effect>
+        <Effect label="" startTime="78100" endTime="78400"></Effect>
+        <Effect label="" startTime="78400" endTime="78725"></Effect>
+        <Effect label="" startTime="78725" endTime="79050"></Effect>
+        <Effect label="" startTime="79050" endTime="79375"></Effect>
+        <Effect label="" startTime="79375" endTime="79700"></Effect>
+        <Effect label="" startTime="79700" endTime="80050"></Effect>
+        <Effect label="" startTime="80050" endTime="80375"></Effect>
+        <Effect label="" startTime="80375" endTime="80700"></Effect>
+        <Effect label="" startTime="80700" endTime="81000"></Effect>
+        <Effect label="" startTime="81000" endTime="81350"></Effect>
+        <Effect label="" startTime="81350" endTime="81675"></Effect>
+        <Effect label="" startTime="81675" endTime="81975"></Effect>
+        <Effect label="" startTime="81975" endTime="82275"></Effect>
+        <Effect label="" startTime="82275" endTime="82575"></Effect>
+        <Effect label="" startTime="82575" endTime="82900"></Effect>
+        <Effect label="" startTime="82900" endTime="83200"></Effect>
+        <Effect label="" startTime="83200" endTime="83525"></Effect>
+        <Effect label="" startTime="83525" endTime="83875"></Effect>
+        <Effect label="" startTime="83875" endTime="84200"></Effect>
+        <Effect label="" startTime="84200" endTime="84525"></Effect>
+        <Effect label="" startTime="84525" endTime="84800"></Effect>
+        <Effect label="" startTime="84800" endTime="85150"></Effect>
+        <Effect label="" startTime="85150" endTime="85475"></Effect>
+        <Effect label="" startTime="85475" endTime="85825"></Effect>
+        <Effect label="" startTime="85825" endTime="86150"></Effect>
+        <Effect label="" startTime="86150" endTime="86450"></Effect>
+        <Effect label="" startTime="86450" endTime="86775"></Effect>
+        <Effect label="" startTime="86775" endTime="87100"></Effect>
+        <Effect label="" startTime="87100" endTime="87425"></Effect>
+        <Effect label="" startTime="87425" endTime="87750"></Effect>
+        <Effect label="" startTime="87750" endTime="88050"></Effect>
+        <Effect label="" startTime="88050" endTime="88400"></Effect>
+        <Effect label="" startTime="88400" endTime="88700"></Effect>
+        <Effect label="" startTime="88700" endTime="89000"></Effect>
+        <Effect label="" startTime="89000" endTime="89325"></Effect>
+        <Effect label="" startTime="89325" endTime="89675"></Effect>
+        <Effect label="" startTime="89675" endTime="90000"></Effect>
+        <Effect label="" startTime="90000" endTime="90325"></Effect>
+        <Effect label="" startTime="90325" endTime="90675"></Effect>
+        <Effect label="" startTime="90675" endTime="91250"></Effect>
+      </EffectLayer>
+    </Element>
+    <Element type="timing" name="Notes">
+      <EffectLayer>
+        <Effect label="" startTime="0" endTime="250"></Effect>
+        <Effect label="" startTime="250" endTime="625"></Effect>
+        <Effect label="" startTime="625" endTime="1000"></Effect>
+        <Effect label="" startTime="1000" endTime="1400"></Effect>
+        <Effect label="" startTime="1400" endTime="1775"></Effect>
+        <Effect label="" startTime="1775" endTime="2125"></Effect>
+        <Effect label="" startTime="2125" endTime="2500"></Effect>
+        <Effect label="" startTime="2500" endTime="2850"></Effect>
+        <Effect label="" startTime="2850" endTime="3200"></Effect>
+        <Effect label="" startTime="3200" endTime="3575"></Effect>
+        <Effect label="" startTime="3575" endTime="3950"></Effect>
+        <Effect label="" startTime="3950" endTime="4325"></Effect>
+        <Effect label="" startTime="4325" endTime="4700"></Effect>
+        <Effect label="" startTime="4700" endTime="5050"></Effect>
+        <Effect label="" startTime="5050" endTime="5425"></Effect>
+        <Effect label="" startTime="5425" endTime="5800"></Effect>
+        <Effect label="" startTime="5800" endTime="6175"></Effect>
+        <Effect label="" startTime="6175" endTime="6525"></Effect>
+        <Effect label="" startTime="6525" endTime="6900"></Effect>
+        <Effect label="" startTime="6900" endTime="7275"></Effect>
+        <Effect label="" startTime="7275" endTime="7650"></Effect>
+        <Effect label="" startTime="7650" endTime="8000"></Effect>
+        <Effect label="" startTime="8000" endTime="8350"></Effect>
+        <Effect label="" startTime="8350" endTime="8725"></Effect>
+        <Effect label="" startTime="8725" endTime="9100"></Effect>
+        <Effect label="" startTime="9100" endTime="9450"></Effect>
+        <Effect label="" startTime="9450" endTime="9825"></Effect>
+        <Effect label="" startTime="9825" endTime="10200"></Effect>
+        <Effect label="" startTime="10200" endTime="10550"></Effect>
+        <Effect label="" startTime="10550" endTime="10925"></Effect>
+        <Effect label="" startTime="10925" endTime="11275"></Effect>
+        <Effect label="" startTime="11275" endTime="11650"></Effect>
+        <Effect label="" startTime="11650" endTime="12000"></Effect>
+        <Effect label="" startTime="12000" endTime="12375"></Effect>
+        <Effect label="" startTime="12375" endTime="12750"></Effect>
+        <Effect label="" startTime="12750" endTime="13125"></Effect>
+        <Effect label="" startTime="13125" endTime="13500"></Effect>
+        <Effect label="" startTime="13500" endTime="13825"></Effect>
+        <Effect label="" startTime="13825" endTime="14200"></Effect>
+        <Effect label="" startTime="14200" endTime="14600"></Effect>
+        <Effect label="" startTime="14600" endTime="14975"></Effect>
+        <Effect label="" startTime="14975" endTime="15325"></Effect>
+        <Effect label="" startTime="15325" endTime="15700"></Effect>
+        <Effect label="" startTime="15700" endTime="16075"></Effect>
+        <Effect label="" startTime="16075" endTime="16425"></Effect>
+        <Effect label="" startTime="16425" endTime="16775"></Effect>
+        <Effect label="" startTime="16775" endTime="17150"></Effect>
+        <Effect label="" startTime="17150" endTime="17500"></Effect>
+        <Effect label="" startTime="17500" endTime="17875"></Effect>
+        <Effect label="" startTime="17875" endTime="18225"></Effect>
+        <Effect label="" startTime="18225" endTime="18600"></Effect>
+        <Effect label="" startTime="18600" endTime="19000"></Effect>
+        <Effect label="" startTime="19000" endTime="19350"></Effect>
+        <Effect label="" startTime="19350" endTime="19700"></Effect>
+        <Effect label="" startTime="19700" endTime="20100"></Effect>
+        <Effect label="" startTime="20100" endTime="20475"></Effect>
+        <Effect label="" startTime="20475" endTime="20875"></Effect>
+        <Effect label="" startTime="20875" endTime="21250"></Effect>
+        <Effect label="" startTime="21250" endTime="21625"></Effect>
+        <Effect label="" startTime="21625" endTime="22000"></Effect>
+        <Effect label="" startTime="22000" endTime="22325"></Effect>
+        <Effect label="" startTime="22325" endTime="22675"></Effect>
+        <Effect label="" startTime="22675" endTime="23100"></Effect>
+        <Effect label="" startTime="23100" endTime="23450"></Effect>
+        <Effect label="" startTime="23450" endTime="23775"></Effect>
+        <Effect label="" startTime="23775" endTime="24100"></Effect>
+        <Effect label="" startTime="24100" endTime="24525"></Effect>
+        <Effect label="" startTime="24525" endTime="24875"></Effect>
+        <Effect label="" startTime="24875" endTime="25250"></Effect>
+        <Effect label="" startTime="25250" endTime="25650"></Effect>
+        <Effect label="" startTime="25650" endTime="25975"></Effect>
+        <Effect label="" startTime="25975" endTime="26325"></Effect>
+        <Effect label="" startTime="26325" endTime="26750"></Effect>
+        <Effect label="" startTime="26750" endTime="27250"></Effect>
+        <Effect label="" startTime="27250" endTime="27725"></Effect>
+        <Effect label="" startTime="27725" endTime="28250"></Effect>
+        <Effect label="" startTime="28250" endTime="28950"></Effect>
+        <Effect label="" startTime="28950" endTime="29050"></Effect>
+        <Effect label="" startTime="29050" endTime="30100"></Effect>
+        <Effect label="" startTime="30100" endTime="31525"></Effect>
+        <Effect label="" startTime="31525" endTime="32625"></Effect>
+        <Effect label="" startTime="32625" endTime="32800"></Effect>
+        <Effect label="" startTime="32800" endTime="32975"></Effect>
+        <Effect label="" startTime="32975" endTime="33150"></Effect>
+        <Effect label="" startTime="33150" endTime="33300"></Effect>
+        <Effect label="" startTime="33300" endTime="33450"></Effect>
+        <Effect label="" startTime="33450" endTime="33600"></Effect>
+        <Effect label="" startTime="33600" endTime="33750"></Effect>
+        <Effect label="" startTime="33750" endTime="33900"></Effect>
+        <Effect label="" startTime="33900" endTime="34075"></Effect>
+        <Effect label="" startTime="34075" endTime="34250"></Effect>
+        <Effect label="" startTime="34250" endTime="34425"></Effect>
+        <Effect label="" startTime="34425" endTime="34575"></Effect>
+        <Effect label="" startTime="34575" endTime="34750"></Effect>
+        <Effect label="" startTime="34750" endTime="34925"></Effect>
+        <Effect label="" startTime="34925" endTime="35100"></Effect>
+        <Effect label="" startTime="35100" endTime="35250"></Effect>
+        <Effect label="" startTime="35250" endTime="35400"></Effect>
+        <Effect label="" startTime="35400" endTime="35550"></Effect>
+        <Effect label="" startTime="35550" endTime="35725"></Effect>
+        <Effect label="" startTime="35725" endTime="35900"></Effect>
+        <Effect label="" startTime="35900" endTime="36050"></Effect>
+        <Effect label="" startTime="36050" endTime="36200"></Effect>
+        <Effect label="" startTime="36200" endTime="36375"></Effect>
+        <Effect label="" startTime="36375" endTime="36500"></Effect>
+        <Effect label="" startTime="36500" endTime="36700"></Effect>
+        <Effect label="" startTime="36700" endTime="36850"></Effect>
+        <Effect label="" startTime="36850" endTime="37000"></Effect>
+        <Effect label="" startTime="37000" endTime="37150"></Effect>
+        <Effect label="" startTime="37150" endTime="37325"></Effect>
+        <Effect label="" startTime="37325" endTime="37450"></Effect>
+        <Effect label="" startTime="37450" endTime="37625"></Effect>
+        <Effect label="" startTime="37625" endTime="37800"></Effect>
+        <Effect label="" startTime="37800" endTime="37950"></Effect>
+        <Effect label="" startTime="37950" endTime="38100"></Effect>
+        <Effect label="" startTime="38100" endTime="38275"></Effect>
+        <Effect label="" startTime="38275" endTime="38450"></Effect>
+        <Effect label="" startTime="38450" endTime="38600"></Effect>
+        <Effect label="" startTime="38600" endTime="38750"></Effect>
+        <Effect label="" startTime="38750" endTime="38925"></Effect>
+        <Effect label="" startTime="38925" endTime="39075"></Effect>
+        <Effect label="" startTime="39075" endTime="39250"></Effect>
+        <Effect label="" startTime="39250" endTime="39400"></Effect>
+        <Effect label="" startTime="39400" endTime="39575"></Effect>
+        <Effect label="" startTime="39575" endTime="39750"></Effect>
+        <Effect label="" startTime="39750" endTime="39925"></Effect>
+        <Effect label="" startTime="39925" endTime="40075"></Effect>
+        <Effect label="" startTime="40075" endTime="40225"></Effect>
+        <Effect label="" startTime="40225" endTime="40375"></Effect>
+        <Effect label="" startTime="40375" endTime="40550"></Effect>
+        <Effect label="" startTime="40550" endTime="40700"></Effect>
+        <Effect label="" startTime="40700" endTime="40875"></Effect>
+        <Effect label="" startTime="40875" endTime="41025"></Effect>
+        <Effect label="" startTime="41025" endTime="41200"></Effect>
+        <Effect label="" startTime="41200" endTime="41375"></Effect>
+        <Effect label="" startTime="41375" endTime="41525"></Effect>
+        <Effect label="" startTime="41525" endTime="41675"></Effect>
+        <Effect label="" startTime="41675" endTime="41850"></Effect>
+        <Effect label="" startTime="41850" endTime="42000"></Effect>
+        <Effect label="" startTime="42000" endTime="42150"></Effect>
+        <Effect label="" startTime="42150" endTime="42300"></Effect>
+        <Effect label="" startTime="42300" endTime="42450"></Effect>
+        <Effect label="" startTime="42450" endTime="42625"></Effect>
+        <Effect label="" startTime="42625" endTime="42775"></Effect>
+        <Effect label="" startTime="42775" endTime="42950"></Effect>
+        <Effect label="" startTime="42950" endTime="43100"></Effect>
+        <Effect label="" startTime="43100" endTime="43275"></Effect>
+        <Effect label="" startTime="43275" endTime="43450"></Effect>
+        <Effect label="" startTime="43450" endTime="43600"></Effect>
+        <Effect label="" startTime="43600" endTime="43775"></Effect>
+        <Effect label="" startTime="43775" endTime="43950"></Effect>
+        <Effect label="" startTime="43950" endTime="44100"></Effect>
+        <Effect label="" startTime="44100" endTime="44250"></Effect>
+        <Effect label="" startTime="44250" endTime="44400"></Effect>
+        <Effect label="" startTime="44400" endTime="44550"></Effect>
+        <Effect label="" startTime="44550" endTime="44725"></Effect>
+        <Effect label="" startTime="44725" endTime="44875"></Effect>
+        <Effect label="" startTime="44875" endTime="45050"></Effect>
+        <Effect label="" startTime="45050" endTime="45200"></Effect>
+        <Effect label="" startTime="45200" endTime="45350"></Effect>
+        <Effect label="" startTime="45350" endTime="45525"></Effect>
+        <Effect label="" startTime="45525" endTime="45675"></Effect>
+        <Effect label="" startTime="45675" endTime="45850"></Effect>
+        <Effect label="" startTime="45850" endTime="46025"></Effect>
+        <Effect label="" startTime="46025" endTime="46175"></Effect>
+        <Effect label="" startTime="46175" endTime="46325"></Effect>
+        <Effect label="" startTime="46325" endTime="46500"></Effect>
+        <Effect label="" startTime="46500" endTime="46650"></Effect>
+        <Effect label="" startTime="46650" endTime="46800"></Effect>
+        <Effect label="" startTime="46800" endTime="46975"></Effect>
+        <Effect label="" startTime="46975" endTime="47125"></Effect>
+        <Effect label="" startTime="47125" endTime="47300"></Effect>
+        <Effect label="" startTime="47300" endTime="47450"></Effect>
+        <Effect label="" startTime="47450" endTime="47600"></Effect>
+        <Effect label="" startTime="47600" endTime="47775"></Effect>
+        <Effect label="" startTime="47775" endTime="47950"></Effect>
+        <Effect label="" startTime="47950" endTime="48100"></Effect>
+        <Effect label="" startTime="48100" endTime="48275"></Effect>
+        <Effect label="" startTime="48275" endTime="48450"></Effect>
+        <Effect label="" startTime="48450" endTime="48600"></Effect>
+        <Effect label="" startTime="48600" endTime="48775"></Effect>
+        <Effect label="" startTime="48775" endTime="48925"></Effect>
+        <Effect label="" startTime="48925" endTime="49075"></Effect>
+        <Effect label="" startTime="49075" endTime="49225"></Effect>
+        <Effect label="" startTime="49225" endTime="49400"></Effect>
+        <Effect label="" startTime="49400" endTime="49550"></Effect>
+        <Effect label="" startTime="49550" endTime="49700"></Effect>
+        <Effect label="" startTime="49700" endTime="49875"></Effect>
+        <Effect label="" startTime="49875" endTime="50025"></Effect>
+        <Effect label="" startTime="50025" endTime="50200"></Effect>
+        <Effect label="" startTime="50200" endTime="50350"></Effect>
+        <Effect label="" startTime="50350" endTime="50500"></Effect>
+        <Effect label="" startTime="50500" endTime="50675"></Effect>
+        <Effect label="" startTime="50675" endTime="50850"></Effect>
+        <Effect label="" startTime="50850" endTime="51000"></Effect>
+        <Effect label="" startTime="51000" endTime="51150"></Effect>
+        <Effect label="" startTime="51150" endTime="51325"></Effect>
+        <Effect label="" startTime="51325" endTime="51475"></Effect>
+        <Effect label="" startTime="51475" endTime="51650"></Effect>
+        <Effect label="" startTime="51650" endTime="51800"></Effect>
+        <Effect label="" startTime="51800" endTime="51975"></Effect>
+        <Effect label="" startTime="51975" endTime="52125"></Effect>
+        <Effect label="" startTime="52125" endTime="52300"></Effect>
+        <Effect label="" startTime="52300" endTime="52450"></Effect>
+        <Effect label="" startTime="52450" endTime="52600"></Effect>
+        <Effect label="" startTime="52600" endTime="52775"></Effect>
+        <Effect label="" startTime="52775" endTime="52950"></Effect>
+        <Effect label="" startTime="52950" endTime="53100"></Effect>
+        <Effect label="" startTime="53100" endTime="53250"></Effect>
+        <Effect label="" startTime="53250" endTime="53425"></Effect>
+        <Effect label="" startTime="53425" endTime="53575"></Effect>
+        <Effect label="" startTime="53575" endTime="53750"></Effect>
+        <Effect label="" startTime="53750" endTime="53900"></Effect>
+        <Effect label="" startTime="53900" endTime="54050"></Effect>
+        <Effect label="" startTime="54050" endTime="54225"></Effect>
+        <Effect label="" startTime="54225" endTime="54375"></Effect>
+        <Effect label="" startTime="54375" endTime="54550"></Effect>
+        <Effect label="" startTime="54550" endTime="54700"></Effect>
+        <Effect label="" startTime="54700" endTime="54875"></Effect>
+        <Effect label="" startTime="54875" endTime="55050"></Effect>
+        <Effect label="" startTime="55050" endTime="55200"></Effect>
+        <Effect label="" startTime="55200" endTime="55375"></Effect>
+        <Effect label="" startTime="55375" endTime="55525"></Effect>
+        <Effect label="" startTime="55525" endTime="55700"></Effect>
+        <Effect label="" startTime="55700" endTime="55850"></Effect>
+        <Effect label="" startTime="55850" endTime="56000"></Effect>
+        <Effect label="" startTime="56000" endTime="56175"></Effect>
+        <Effect label="" startTime="56175" endTime="56350"></Effect>
+        <Effect label="" startTime="56350" endTime="56525"></Effect>
+        <Effect label="" startTime="56525" endTime="56675"></Effect>
+        <Effect label="" startTime="56675" endTime="56800"></Effect>
+        <Effect label="" startTime="56800" endTime="56975"></Effect>
+        <Effect label="" startTime="56975" endTime="57125"></Effect>
+        <Effect label="" startTime="57125" endTime="57300"></Effect>
+        <Effect label="" startTime="57300" endTime="57450"></Effect>
+        <Effect label="" startTime="57450" endTime="57625"></Effect>
+        <Effect label="" startTime="57625" endTime="57775"></Effect>
+        <Effect label="" startTime="57775" endTime="57950"></Effect>
+        <Effect label="" startTime="57950" endTime="58100"></Effect>
+        <Effect label="" startTime="58100" endTime="58275"></Effect>
+        <Effect label="" startTime="58275" endTime="58425"></Effect>
+        <Effect label="" startTime="58425" endTime="58575"></Effect>
+        <Effect label="" startTime="58575" endTime="58750"></Effect>
+        <Effect label="" startTime="58750" endTime="58900"></Effect>
+        <Effect label="" startTime="58900" endTime="59050"></Effect>
+        <Effect label="" startTime="59050" endTime="59225"></Effect>
+        <Effect label="" startTime="59225" endTime="59375"></Effect>
+        <Effect label="" startTime="59375" endTime="59550"></Effect>
+        <Effect label="" startTime="59550" endTime="59725"></Effect>
+        <Effect label="" startTime="59725" endTime="59875"></Effect>
+        <Effect label="" startTime="59875" endTime="60050"></Effect>
+        <Effect label="" startTime="60050" endTime="60200"></Effect>
+        <Effect label="" startTime="60200" endTime="60375"></Effect>
+        <Effect label="" startTime="60375" endTime="60550"></Effect>
+        <Effect label="" startTime="60550" endTime="60675"></Effect>
+        <Effect label="" startTime="60675" endTime="60850"></Effect>
+        <Effect label="" startTime="60850" endTime="61000"></Effect>
+        <Effect label="" startTime="61000" endTime="61175"></Effect>
+        <Effect label="" startTime="61175" endTime="61325"></Effect>
+        <Effect label="" startTime="61325" endTime="61475"></Effect>
+        <Effect label="" startTime="61475" endTime="61650"></Effect>
+        <Effect label="" startTime="61650" endTime="61800"></Effect>
+        <Effect label="" startTime="61800" endTime="61950"></Effect>
+        <Effect label="" startTime="61950" endTime="62125"></Effect>
+        <Effect label="" startTime="62125" endTime="62275"></Effect>
+        <Effect label="" startTime="62275" endTime="62450"></Effect>
+        <Effect label="" startTime="62450" endTime="62600"></Effect>
+        <Effect label="" startTime="62600" endTime="62775"></Effect>
+        <Effect label="" startTime="62775" endTime="62925"></Effect>
+        <Effect label="" startTime="62925" endTime="63100"></Effect>
+        <Effect label="" startTime="63100" endTime="63250"></Effect>
+        <Effect label="" startTime="63250" endTime="63400"></Effect>
+        <Effect label="" startTime="63400" endTime="63575"></Effect>
+        <Effect label="" startTime="63575" endTime="63725"></Effect>
+        <Effect label="" startTime="63725" endTime="63900"></Effect>
+        <Effect label="" startTime="63900" endTime="64050"></Effect>
+        <Effect label="" startTime="64050" endTime="64200"></Effect>
+        <Effect label="" startTime="64200" endTime="64375"></Effect>
+        <Effect label="" startTime="64375" endTime="64550"></Effect>
+        <Effect label="" startTime="64550" endTime="64700"></Effect>
+        <Effect label="" startTime="64700" endTime="64850"></Effect>
+        <Effect label="" startTime="64850" endTime="65000"></Effect>
+        <Effect label="" startTime="65000" endTime="65150"></Effect>
+        <Effect label="" startTime="65150" endTime="65325"></Effect>
+        <Effect label="" startTime="65325" endTime="65475"></Effect>
+        <Effect label="" startTime="65475" endTime="65650"></Effect>
+        <Effect label="" startTime="65650" endTime="65800"></Effect>
+        <Effect label="" startTime="65800" endTime="65975"></Effect>
+        <Effect label="" startTime="65975" endTime="66150"></Effect>
+        <Effect label="" startTime="66150" endTime="66300"></Effect>
+        <Effect label="" startTime="66300" endTime="66475"></Effect>
+        <Effect label="" startTime="66475" endTime="66625"></Effect>
+        <Effect label="" startTime="66625" endTime="66800"></Effect>
+        <Effect label="" startTime="66800" endTime="66950"></Effect>
+        <Effect label="" startTime="66950" endTime="67100"></Effect>
+        <Effect label="" startTime="67100" endTime="67275"></Effect>
+        <Effect label="" startTime="67275" endTime="67450"></Effect>
+        <Effect label="" startTime="67450" endTime="67600"></Effect>
+        <Effect label="" startTime="67600" endTime="67750"></Effect>
+        <Effect label="" startTime="67750" endTime="67900"></Effect>
+        <Effect label="" startTime="67900" endTime="68050"></Effect>
+        <Effect label="" startTime="68050" endTime="68200"></Effect>
+        <Effect label="" startTime="68200" endTime="68350"></Effect>
+        <Effect label="" startTime="68350" endTime="68500"></Effect>
+        <Effect label="" startTime="68500" endTime="68675"></Effect>
+        <Effect label="" startTime="68675" endTime="68825"></Effect>
+        <Effect label="" startTime="68825" endTime="69000"></Effect>
+        <Effect label="" startTime="69000" endTime="69175"></Effect>
+        <Effect label="" startTime="69175" endTime="69350"></Effect>
+        <Effect label="" startTime="69350" endTime="69500"></Effect>
+        <Effect label="" startTime="69500" endTime="69650"></Effect>
+        <Effect label="" startTime="69650" endTime="69825"></Effect>
+        <Effect label="" startTime="69825" endTime="70000"></Effect>
+        <Effect label="" startTime="70000" endTime="70175"></Effect>
+        <Effect label="" startTime="70175" endTime="70350"></Effect>
+        <Effect label="" startTime="70350" endTime="70500"></Effect>
+        <Effect label="" startTime="70500" endTime="70650"></Effect>
+        <Effect label="" startTime="70650" endTime="70825"></Effect>
+        <Effect label="" startTime="70825" endTime="71000"></Effect>
+        <Effect label="" startTime="71000" endTime="71150"></Effect>
+        <Effect label="" startTime="71150" endTime="71300"></Effect>
+        <Effect label="" startTime="71300" endTime="71475"></Effect>
+        <Effect label="" startTime="71475" endTime="71625"></Effect>
+        <Effect label="" startTime="71625" endTime="71800"></Effect>
+        <Effect label="" startTime="71800" endTime="71950"></Effect>
+        <Effect label="" startTime="71950" endTime="72125"></Effect>
+        <Effect label="" startTime="72125" endTime="72300"></Effect>
+        <Effect label="" startTime="72300" endTime="72450"></Effect>
+        <Effect label="" startTime="72450" endTime="72575"></Effect>
+        <Effect label="" startTime="72575" endTime="72750"></Effect>
+        <Effect label="" startTime="72750" endTime="72900"></Effect>
+        <Effect label="" startTime="72900" endTime="73075"></Effect>
+        <Effect label="" startTime="73075" endTime="73250"></Effect>
+        <Effect label="" startTime="73250" endTime="73425"></Effect>
+        <Effect label="" startTime="73425" endTime="73600"></Effect>
+        <Effect label="" startTime="73600" endTime="73750"></Effect>
+        <Effect label="" startTime="73750" endTime="73900"></Effect>
+        <Effect label="" startTime="73900" endTime="74050"></Effect>
+        <Effect label="" startTime="74050" endTime="74225"></Effect>
+        <Effect label="" startTime="74225" endTime="74375"></Effect>
+        <Effect label="" startTime="74375" endTime="74525"></Effect>
+        <Effect label="" startTime="74525" endTime="74700"></Effect>
+        <Effect label="" startTime="74700" endTime="74850"></Effect>
+        <Effect label="" startTime="74850" endTime="75025"></Effect>
+        <Effect label="" startTime="75025" endTime="75175"></Effect>
+        <Effect label="" startTime="75175" endTime="75350"></Effect>
+        <Effect label="" startTime="75350" endTime="75500"></Effect>
+        <Effect label="" startTime="75500" endTime="75650"></Effect>
+        <Effect label="" startTime="75650" endTime="75825"></Effect>
+        <Effect label="" startTime="75825" endTime="76000"></Effect>
+        <Effect label="" startTime="76000" endTime="76150"></Effect>
+        <Effect label="" startTime="76150" endTime="76325"></Effect>
+        <Effect label="" startTime="76325" endTime="76475"></Effect>
+        <Effect label="" startTime="76475" endTime="76650"></Effect>
+        <Effect label="" startTime="76650" endTime="76800"></Effect>
+        <Effect label="" startTime="76800" endTime="76950"></Effect>
+        <Effect label="" startTime="76950" endTime="77100"></Effect>
+        <Effect label="" startTime="77100" endTime="77275"></Effect>
+        <Effect label="" startTime="77275" endTime="77450"></Effect>
+        <Effect label="" startTime="77450" endTime="77600"></Effect>
+        <Effect label="" startTime="77600" endTime="77775"></Effect>
+        <Effect label="" startTime="77775" endTime="77925"></Effect>
+        <Effect label="" startTime="77925" endTime="78100"></Effect>
+        <Effect label="" startTime="78100" endTime="78250"></Effect>
+        <Effect label="" startTime="78250" endTime="78400"></Effect>
+        <Effect label="" startTime="78400" endTime="78575"></Effect>
+        <Effect label="" startTime="78575" endTime="78725"></Effect>
+        <Effect label="" startTime="78725" endTime="78875"></Effect>
+        <Effect label="" startTime="78875" endTime="79050"></Effect>
+        <Effect label="" startTime="79050" endTime="79225"></Effect>
+        <Effect label="" startTime="79225" endTime="79400"></Effect>
+        <Effect label="" startTime="79400" endTime="79550"></Effect>
+        <Effect label="" startTime="79550" endTime="79700"></Effect>
+        <Effect label="" startTime="79700" endTime="79850"></Effect>
+        <Effect label="" startTime="79850" endTime="80000"></Effect>
+        <Effect label="" startTime="80000" endTime="80175"></Effect>
+        <Effect label="" startTime="80175" endTime="80350"></Effect>
+        <Effect label="" startTime="80350" endTime="80500"></Effect>
+        <Effect label="" startTime="80500" endTime="80650"></Effect>
+        <Effect label="" startTime="80650" endTime="80800"></Effect>
+        <Effect label="" startTime="80800" endTime="80975"></Effect>
+        <Effect label="" startTime="80975" endTime="81150"></Effect>
+        <Effect label="" startTime="81150" endTime="81300"></Effect>
+        <Effect label="" startTime="81300" endTime="81475"></Effect>
+        <Effect label="" startTime="81475" endTime="81625"></Effect>
+        <Effect label="" startTime="81625" endTime="81800"></Effect>
+        <Effect label="" startTime="81800" endTime="81950"></Effect>
+        <Effect label="" startTime="81950" endTime="82125"></Effect>
+        <Effect label="" startTime="82125" endTime="82275"></Effect>
+        <Effect label="" startTime="82275" endTime="82425"></Effect>
+        <Effect label="" startTime="82425" endTime="82575"></Effect>
+        <Effect label="" startTime="82575" endTime="82750"></Effect>
+        <Effect label="" startTime="82750" endTime="82900"></Effect>
+        <Effect label="" startTime="82900" endTime="83075"></Effect>
+        <Effect label="" startTime="83075" endTime="83250"></Effect>
+        <Effect label="" startTime="83250" endTime="83425"></Effect>
+        <Effect label="" startTime="83425" endTime="83575"></Effect>
+        <Effect label="" startTime="83575" endTime="83750"></Effect>
+        <Effect label="" startTime="83750" endTime="83900"></Effect>
+        <Effect label="" startTime="83900" endTime="84075"></Effect>
+        <Effect label="" startTime="84075" endTime="84225"></Effect>
+        <Effect label="" startTime="84225" endTime="84375"></Effect>
+        <Effect label="" startTime="84375" endTime="84525"></Effect>
+        <Effect label="" startTime="84525" endTime="84675"></Effect>
+        <Effect label="" startTime="84675" endTime="84850"></Effect>
+        <Effect label="" startTime="84850" endTime="85000"></Effect>
+        <Effect label="" startTime="85000" endTime="85175"></Effect>
+        <Effect label="" startTime="85175" endTime="85325"></Effect>
+        <Effect label="" startTime="85325" endTime="85500"></Effect>
+        <Effect label="" startTime="85500" endTime="85650"></Effect>
+        <Effect label="" startTime="85650" endTime="85825"></Effect>
+        <Effect label="" startTime="85825" endTime="86000"></Effect>
+        <Effect label="" startTime="86000" endTime="86150"></Effect>
+        <Effect label="" startTime="86150" endTime="86300"></Effect>
+        <Effect label="" startTime="86300" endTime="86450"></Effect>
+        <Effect label="" startTime="86450" endTime="86625"></Effect>
+        <Effect label="" startTime="86625" endTime="86775"></Effect>
+        <Effect label="" startTime="86775" endTime="86950"></Effect>
+        <Effect label="" startTime="86950" endTime="87100"></Effect>
+        <Effect label="" startTime="87100" endTime="87275"></Effect>
+        <Effect label="" startTime="87275" endTime="87425"></Effect>
+        <Effect label="" startTime="87425" endTime="87575"></Effect>
+        <Effect label="" startTime="87575" endTime="87750"></Effect>
+        <Effect label="" startTime="87750" endTime="87900"></Effect>
+        <Effect label="" startTime="87900" endTime="88050"></Effect>
+        <Effect label="" startTime="88050" endTime="88225"></Effect>
+        <Effect label="" startTime="88225" endTime="88375"></Effect>
+        <Effect label="" startTime="88375" endTime="88550"></Effect>
+        <Effect label="" startTime="88550" endTime="88700"></Effect>
+        <Effect label="" startTime="88700" endTime="88875"></Effect>
+        <Effect label="" startTime="88875" endTime="89050"></Effect>
+        <Effect label="" startTime="89050" endTime="89200"></Effect>
+        <Effect label="" startTime="89200" endTime="89350"></Effect>
+        <Effect label="" startTime="89350" endTime="89525"></Effect>
+        <Effect label="" startTime="89525" endTime="89675"></Effect>
+        <Effect label="" startTime="89675" endTime="89850"></Effect>
+        <Effect label="" startTime="89850" endTime="90000"></Effect>
+        <Effect label="" startTime="90000" endTime="90175"></Effect>
+        <Effect label="" startTime="90175" endTime="90350"></Effect>
+        <Effect label="" startTime="90350" endTime="90500"></Effect>
+        <Effect label="" startTime="90500" endTime="90675"></Effect>
+        <Effect label="" startTime="90675" endTime="90825"></Effect>
+        <Effect label="" startTime="90825" endTime="91000"></Effect>
+        <Effect label="" startTime="91000" endTime="91150"></Effect>
+        <Effect label="" startTime="91150" endTime="91300"></Effect>
+        <Effect label="" startTime="91300" endTime="91475"></Effect>
+        <Effect label="" startTime="91475" endTime="91650"></Effect>
+        <Effect label="" startTime="91650" endTime="91800"></Effect>
+        <Effect label="" startTime="91800" endTime="91975"></Effect>
+        <Effect label="" startTime="91975" endTime="92125"></Effect>
+        <Effect label="" startTime="92125" endTime="92275"></Effect>
+        <Effect label="" startTime="92275" endTime="92425"></Effect>
+        <Effect label="" startTime="92425" endTime="92575"></Effect>
+        <Effect label="" startTime="92575" endTime="92725"></Effect>
+        <Effect label="" startTime="92725" endTime="92900"></Effect>
+        <Effect label="" startTime="92900" endTime="93075"></Effect>
+        <Effect label="" startTime="93075" endTime="93250"></Effect>
+        <Effect label="" startTime="93250" endTime="93400"></Effect>
+        <Effect label="" startTime="93400" endTime="93575"></Effect>
+        <Effect label="" startTime="93575" endTime="93725"></Effect>
+        <Effect label="" startTime="93725" endTime="93875"></Effect>
+        <Effect label="" startTime="93875" endTime="94025"></Effect>
+        <Effect label="" startTime="94025" endTime="94175"></Effect>
+        <Effect label="" startTime="94175" endTime="94350"></Effect>
+        <Effect label="" startTime="94350" endTime="94500"></Effect>
+        <Effect label="" startTime="94500" endTime="94650"></Effect>
+        <Effect label="" startTime="94650" endTime="94800"></Effect>
+        <Effect label="" startTime="94800" endTime="94975"></Effect>
+        <Effect label="" startTime="94975" endTime="95150"></Effect>
+        <Effect label="" startTime="95150" endTime="95300"></Effect>
+        <Effect label="" startTime="95300" endTime="95475"></Effect>
+        <Effect label="" startTime="95475" endTime="95625"></Effect>
+        <Effect label="" startTime="95625" endTime="95775"></Effect>
+        <Effect label="" startTime="95775" endTime="95950"></Effect>
+        <Effect label="" startTime="95950" endTime="96100"></Effect>
+        <Effect label="" startTime="96100" endTime="96250"></Effect>
+        <Effect label="" startTime="96250" endTime="96400"></Effect>
+        <Effect label="" startTime="96400" endTime="96575"></Effect>
+        <Effect label="" startTime="96575" endTime="96750"></Effect>
+        <Effect label="" startTime="96750" endTime="96925"></Effect>
+        <Effect label="" startTime="96925" endTime="97075"></Effect>
+        <Effect label="" startTime="97075" endTime="97250"></Effect>
+        <Effect label="" startTime="97250" endTime="97400"></Effect>
+        <Effect label="" startTime="97400" endTime="97550"></Effect>
+        <Effect label="" startTime="97550" endTime="97725"></Effect>
+        <Effect label="" startTime="97725" endTime="97875"></Effect>
+        <Effect label="" startTime="97875" endTime="98050"></Effect>
+        <Effect label="" startTime="98050" endTime="98200"></Effect>
+        <Effect label="" startTime="98200" endTime="98350"></Effect>
+        <Effect label="" startTime="98350" endTime="98500"></Effect>
+        <Effect label="" startTime="98500" endTime="98650"></Effect>
+        <Effect label="" startTime="98650" endTime="98800"></Effect>
+        <Effect label="" startTime="98800" endTime="98975"></Effect>
+        <Effect label="" startTime="98975" endTime="99125"></Effect>
+        <Effect label="" startTime="99125" endTime="99300"></Effect>
+        <Effect label="" startTime="99300" endTime="99450"></Effect>
+        <Effect label="" startTime="99450" endTime="99625"></Effect>
+        <Effect label="" startTime="99625" endTime="99775"></Effect>
+        <Effect label="" startTime="99775" endTime="99925"></Effect>
+        <Effect label="" startTime="99925" endTime="100100"></Effect>
+        <Effect label="" startTime="100100" endTime="100250"></Effect>
+        <Effect label="" startTime="100250" endTime="100425"></Effect>
+        <Effect label="" startTime="100425" endTime="100575"></Effect>
+        <Effect label="" startTime="100575" endTime="100750"></Effect>
+        <Effect label="" startTime="100750" endTime="100900"></Effect>
+        <Effect label="" startTime="100900" endTime="101075"></Effect>
+        <Effect label="" startTime="101075" endTime="101225"></Effect>
+        <Effect label="" startTime="101225" endTime="101375"></Effect>
+        <Effect label="" startTime="101375" endTime="101525"></Effect>
+        <Effect label="" startTime="101525" endTime="101700"></Effect>
+        <Effect label="" startTime="101700" endTime="101850"></Effect>
+        <Effect label="" startTime="101850" endTime="102025"></Effect>
+        <Effect label="" startTime="102025" endTime="102200"></Effect>
+        <Effect label="" startTime="102200" endTime="102350"></Effect>
+        <Effect label="" startTime="102350" endTime="102525"></Effect>
+        <Effect label="" startTime="102525" endTime="102675"></Effect>
+        <Effect label="" startTime="102675" endTime="102825"></Effect>
+        <Effect label="" startTime="102825" endTime="103000"></Effect>
+        <Effect label="" startTime="103000" endTime="103150"></Effect>
+        <Effect label="" startTime="103150" endTime="103300"></Effect>
+        <Effect label="" startTime="103300" endTime="103475"></Effect>
+        <Effect label="" startTime="103475" endTime="103625"></Effect>
+        <Effect label="" startTime="103625" endTime="103775"></Effect>
+        <Effect label="" startTime="103775" endTime="103950"></Effect>
+        <Effect label="" startTime="103950" endTime="104100"></Effect>
+        <Effect label="" startTime="104100" endTime="104300"></Effect>
+        <Effect label="" startTime="104300" endTime="104450"></Effect>
+        <Effect label="" startTime="104450" endTime="104600"></Effect>
+        <Effect label="" startTime="104600" endTime="104750"></Effect>
+        <Effect label="" startTime="104750" endTime="104925"></Effect>
+        <Effect label="" startTime="104925" endTime="105075"></Effect>
+        <Effect label="" startTime="105075" endTime="105250"></Effect>
+        <Effect label="" startTime="105250" endTime="105400"></Effect>
+        <Effect label="" startTime="105400" endTime="105550"></Effect>
+        <Effect label="" startTime="105550" endTime="105700"></Effect>
+        <Effect label="" startTime="105700" endTime="105875"></Effect>
+        <Effect label="" startTime="105875" endTime="106025"></Effect>
+        <Effect label="" startTime="106025" endTime="106200"></Effect>
+        <Effect label="" startTime="106200" endTime="106400"></Effect>
+        <Effect label="" startTime="106400" endTime="106550"></Effect>
+        <Effect label="" startTime="106550" endTime="106675"></Effect>
+        <Effect label="" startTime="106675" endTime="106850"></Effect>
+        <Effect label="" startTime="106850" endTime="107000"></Effect>
+        <Effect label="" startTime="107000" endTime="107175"></Effect>
+        <Effect label="" startTime="107175" endTime="107350"></Effect>
+        <Effect label="" startTime="107350" endTime="107500"></Effect>
+        <Effect label="" startTime="107500" endTime="107650"></Effect>
+        <Effect label="" startTime="107650" endTime="107800"></Effect>
+        <Effect label="" startTime="107800" endTime="107950"></Effect>
+        <Effect label="" startTime="107950" endTime="108125"></Effect>
+        <Effect label="" startTime="108125" endTime="108275"></Effect>
+        <Effect label="" startTime="108275" endTime="108450"></Effect>
+        <Effect label="" startTime="108450" endTime="108600"></Effect>
+        <Effect label="" startTime="108600" endTime="108750"></Effect>
+        <Effect label="" startTime="108750" endTime="108925"></Effect>
+        <Effect label="" startTime="108925" endTime="109075"></Effect>
+        <Effect label="" startTime="109075" endTime="109250"></Effect>
+        <Effect label="" startTime="109250" endTime="109400"></Effect>
+        <Effect label="" startTime="109400" endTime="109550"></Effect>
+        <Effect label="" startTime="109550" endTime="109725"></Effect>
+        <Effect label="" startTime="109725" endTime="109900"></Effect>
+        <Effect label="" startTime="109900" endTime="110050"></Effect>
+        <Effect label="" startTime="110050" endTime="110225"></Effect>
+        <Effect label="" startTime="110225" endTime="110375"></Effect>
+        <Effect label="" startTime="110375" endTime="110550"></Effect>
+        <Effect label="" startTime="110550" endTime="110700"></Effect>
+        <Effect label="" startTime="110700" endTime="110850"></Effect>
+        <Effect label="" startTime="110850" endTime="111000"></Effect>
+        <Effect label="" startTime="111000" endTime="111175"></Effect>
+        <Effect label="" startTime="111175" endTime="111325"></Effect>
+        <Effect label="" startTime="111325" endTime="111500"></Effect>
+        <Effect label="" startTime="111500" endTime="111650"></Effect>
+        <Effect label="" startTime="111650" endTime="111825"></Effect>
+        <Effect label="" startTime="111825" endTime="111975"></Effect>
+        <Effect label="" startTime="111975" endTime="112150"></Effect>
+        <Effect label="" startTime="112150" endTime="112300"></Effect>
+        <Effect label="" startTime="112300" endTime="112450"></Effect>
+        <Effect label="" startTime="112450" endTime="112625"></Effect>
+        <Effect label="" startTime="112625" endTime="112800"></Effect>
+        <Effect label="" startTime="112800" endTime="112950"></Effect>
+        <Effect label="" startTime="112950" endTime="113100"></Effect>
+        <Effect label="" startTime="113100" endTime="113275"></Effect>
+        <Effect label="" startTime="113275" endTime="113425"></Effect>
+        <Effect label="" startTime="113425" endTime="113600"></Effect>
+        <Effect label="" startTime="113600" endTime="113750"></Effect>
+        <Effect label="" startTime="113750" endTime="113925"></Effect>
+        <Effect label="" startTime="113925" endTime="114075"></Effect>
+        <Effect label="" startTime="114075" endTime="114250"></Effect>
+        <Effect label="" startTime="114250" endTime="114400"></Effect>
+        <Effect label="" startTime="114400" endTime="114550"></Effect>
+        <Effect label="" startTime="114550" endTime="114725"></Effect>
+        <Effect label="" startTime="114725" endTime="114900"></Effect>
+        <Effect label="" startTime="114900" endTime="115050"></Effect>
+        <Effect label="" startTime="115050" endTime="115200"></Effect>
+        <Effect label="" startTime="115200" endTime="115375"></Effect>
+        <Effect label="" startTime="115375" endTime="115525"></Effect>
+        <Effect label="" startTime="115525" endTime="115675"></Effect>
+        <Effect label="" startTime="115675" endTime="115850"></Effect>
+        <Effect label="" startTime="115850" endTime="116000"></Effect>
+        <Effect label="" startTime="116000" endTime="116175"></Effect>
+        <Effect label="" startTime="116175" endTime="116325"></Effect>
+        <Effect label="" startTime="116325" endTime="116500"></Effect>
+        <Effect label="" startTime="116500" endTime="116650"></Effect>
+        <Effect label="" startTime="116650" endTime="116825"></Effect>
+        <Effect label="" startTime="116825" endTime="117000"></Effect>
+        <Effect label="" startTime="117000" endTime="117150"></Effect>
+        <Effect label="" startTime="117150" endTime="117300"></Effect>
+        <Effect label="" startTime="117300" endTime="117450"></Effect>
+        <Effect label="" startTime="117450" endTime="117625"></Effect>
+        <Effect label="" startTime="117625" endTime="117775"></Effect>
+        <Effect label="" startTime="117775" endTime="117950"></Effect>
+        <Effect label="" startTime="117950" endTime="118100"></Effect>
+        <Effect label="" startTime="118100" endTime="118250"></Effect>
+        <Effect label="" startTime="118250" endTime="118425"></Effect>
+        <Effect label="" startTime="118425" endTime="118575"></Effect>
+        <Effect label="" startTime="118575" endTime="118750"></Effect>
+        <Effect label="" startTime="118750" endTime="118900"></Effect>
+        <Effect label="" startTime="118900" endTime="119050"></Effect>
+        <Effect label="" startTime="119050" endTime="119225"></Effect>
+        <Effect label="" startTime="119225" endTime="119400"></Effect>
+        <Effect label="" startTime="119400" endTime="119575"></Effect>
+        <Effect label="" startTime="119575" endTime="119725"></Effect>
+        <Effect label="" startTime="119725" endTime="119875"></Effect>
+        <Effect label="" startTime="119875" endTime="120050"></Effect>
+        <Effect label="" startTime="120050" endTime="120225"></Effect>
+        <Effect label="" startTime="120225" endTime="120400"></Effect>
+        <Effect label="" startTime="120400" endTime="120550"></Effect>
+        <Effect label="" startTime="120550" endTime="120700"></Effect>
+        <Effect label="" startTime="120700" endTime="120825"></Effect>
+        <Effect label="" startTime="120825" endTime="121000"></Effect>
+        <Effect label="" startTime="121000" endTime="121175"></Effect>
+        <Effect label="" startTime="121175" endTime="121325"></Effect>
+        <Effect label="" startTime="121325" endTime="121475"></Effect>
+        <Effect label="" startTime="121475" endTime="121650"></Effect>
+        <Effect label="" startTime="121650" endTime="121800"></Effect>
+        <Effect label="" startTime="121800" endTime="121975"></Effect>
+        <Effect label="" startTime="121975" endTime="122150"></Effect>
+        <Effect label="" startTime="122150" endTime="122300"></Effect>
+        <Effect label="" startTime="122300" endTime="122450"></Effect>
+        <Effect label="" startTime="122450" endTime="122600"></Effect>
+        <Effect label="" startTime="122600" endTime="122775"></Effect>
+        <Effect label="" startTime="122775" endTime="122925"></Effect>
+        <Effect label="" startTime="122925" endTime="123100"></Effect>
+        <Effect label="" startTime="123100" endTime="123250"></Effect>
+        <Effect label="" startTime="123250" endTime="123425"></Effect>
+        <Effect label="" startTime="123425" endTime="123575"></Effect>
+        <Effect label="" startTime="123575" endTime="123725"></Effect>
+        <Effect label="" startTime="123725" endTime="123900"></Effect>
+        <Effect label="" startTime="123900" endTime="124050"></Effect>
+        <Effect label="" startTime="124050" endTime="124225"></Effect>
+        <Effect label="" startTime="124225" endTime="124400"></Effect>
+        <Effect label="" startTime="124400" endTime="124550"></Effect>
+        <Effect label="" startTime="124550" endTime="124700"></Effect>
+        <Effect label="" startTime="124700" endTime="124850"></Effect>
+        <Effect label="" startTime="124850" endTime="125025"></Effect>
+        <Effect label="" startTime="125025" endTime="125175"></Effect>
+        <Effect label="" startTime="125175" endTime="125350"></Effect>
+        <Effect label="" startTime="125350" endTime="125500"></Effect>
+        <Effect label="" startTime="125500" endTime="125675"></Effect>
+        <Effect label="" startTime="125675" endTime="125850"></Effect>
+        <Effect label="" startTime="125850" endTime="126000"></Effect>
+        <Effect label="" startTime="126000" endTime="126175"></Effect>
+        <Effect label="" startTime="126175" endTime="126350"></Effect>
+        <Effect label="" startTime="126350" endTime="126500"></Effect>
+        <Effect label="" startTime="126500" endTime="126675"></Effect>
+        <Effect label="" startTime="126675" endTime="126825"></Effect>
+        <Effect label="" startTime="126825" endTime="127000"></Effect>
+        <Effect label="" startTime="127000" endTime="127150"></Effect>
+        <Effect label="" startTime="127150" endTime="127300"></Effect>
+        <Effect label="" startTime="127300" endTime="127475"></Effect>
+        <Effect label="" startTime="127475" endTime="127625"></Effect>
+        <Effect label="" startTime="127625" endTime="127800"></Effect>
+        <Effect label="" startTime="127800" endTime="127950"></Effect>
+        <Effect label="" startTime="127950" endTime="128100"></Effect>
+        <Effect label="" startTime="128100" endTime="128275"></Effect>
+        <Effect label="" startTime="128275" endTime="128425"></Effect>
+        <Effect label="" startTime="128425" endTime="128600"></Effect>
+        <Effect label="" startTime="128600" endTime="128750"></Effect>
+        <Effect label="" startTime="128750" endTime="128925"></Effect>
+        <Effect label="" startTime="128925" endTime="129075"></Effect>
+        <Effect label="" startTime="129075" endTime="129200"></Effect>
+        <Effect label="" startTime="129200" endTime="129375"></Effect>
+        <Effect label="" startTime="129375" endTime="129550"></Effect>
+        <Effect label="" startTime="129550" endTime="129725"></Effect>
+        <Effect label="" startTime="129725" endTime="129900"></Effect>
+        <Effect label="" startTime="129900" endTime="130075"></Effect>
+        <Effect label="" startTime="130075" endTime="130225"></Effect>
+        <Effect label="" startTime="130225" endTime="130375"></Effect>
+        <Effect label="" startTime="130375" endTime="130525"></Effect>
+        <Effect label="" startTime="130525" endTime="130700"></Effect>
+        <Effect label="" startTime="130700" endTime="130850"></Effect>
+        <Effect label="" startTime="130850" endTime="131000"></Effect>
+        <Effect label="" startTime="131000" endTime="131150"></Effect>
+        <Effect label="" startTime="131150" endTime="131325"></Effect>
+        <Effect label="" startTime="131325" endTime="131500"></Effect>
+        <Effect label="" startTime="131500" endTime="131650"></Effect>
+        <Effect label="" startTime="131650" endTime="131800"></Effect>
+        <Effect label="" startTime="131800" endTime="131950"></Effect>
+        <Effect label="" startTime="131950" endTime="132125"></Effect>
+        <Effect label="" startTime="132125" endTime="132275"></Effect>
+        <Effect label="" startTime="132275" endTime="132450"></Effect>
+        <Effect label="" startTime="132450" endTime="132600"></Effect>
+        <Effect label="" startTime="132600" endTime="132750"></Effect>
+        <Effect label="" startTime="132750" endTime="132925"></Effect>
+        <Effect label="" startTime="132925" endTime="133075"></Effect>
+        <Effect label="" startTime="133075" endTime="133250"></Effect>
+        <Effect label="" startTime="133250" endTime="133400"></Effect>
+        <Effect label="" startTime="133400" endTime="133550"></Effect>
+        <Effect label="" startTime="133550" endTime="133725"></Effect>
+        <Effect label="" startTime="133725" endTime="133875"></Effect>
+        <Effect label="" startTime="133875" endTime="134050"></Effect>
+        <Effect label="" startTime="134050" endTime="134200"></Effect>
+        <Effect label="" startTime="134200" endTime="134350"></Effect>
+        <Effect label="" startTime="134350" endTime="134500"></Effect>
+        <Effect label="" startTime="134500" endTime="134650"></Effect>
+        <Effect label="" startTime="134650" endTime="134800"></Effect>
+        <Effect label="" startTime="134800" endTime="135000"></Effect>
+        <Effect label="" startTime="135000" endTime="135150"></Effect>
+        <Effect label="" startTime="135150" endTime="135300"></Effect>
+        <Effect label="" startTime="135300" endTime="135475"></Effect>
+        <Effect label="" startTime="135475" endTime="135650"></Effect>
+        <Effect label="" startTime="135650" endTime="135800"></Effect>
+        <Effect label="" startTime="135800" endTime="135975"></Effect>
+        <Effect label="" startTime="135975" endTime="136150"></Effect>
+        <Effect label="" startTime="136150" endTime="136300"></Effect>
+        <Effect label="" startTime="136300" endTime="136475"></Effect>
+        <Effect label="" startTime="136475" endTime="136650"></Effect>
+        <Effect label="" startTime="136650" endTime="136800"></Effect>
+        <Effect label="" startTime="136800" endTime="136975"></Effect>
+        <Effect label="" startTime="136975" endTime="137125"></Effect>
+        <Effect label="" startTime="137125" endTime="137275"></Effect>
+        <Effect label="" startTime="137275" endTime="137450"></Effect>
+        <Effect label="" startTime="137450" endTime="137600"></Effect>
+        <Effect label="" startTime="137600" endTime="137750"></Effect>
+        <Effect label="" startTime="137750" endTime="137925"></Effect>
+        <Effect label="" startTime="137925" endTime="138100"></Effect>
+        <Effect label="" startTime="138100" endTime="138250"></Effect>
+        <Effect label="" startTime="138250" endTime="138425"></Effect>
+        <Effect label="" startTime="138425" endTime="138575"></Effect>
+        <Effect label="" startTime="138575" endTime="138725"></Effect>
+        <Effect label="" startTime="138725" endTime="138900"></Effect>
+        <Effect label="" startTime="138900" endTime="139050"></Effect>
+        <Effect label="" startTime="139050" endTime="139225"></Effect>
+        <Effect label="" startTime="139225" endTime="139400"></Effect>
+        <Effect label="" startTime="139400" endTime="139550"></Effect>
+        <Effect label="" startTime="139550" endTime="139725"></Effect>
+        <Effect label="" startTime="139725" endTime="139850"></Effect>
+        <Effect label="" startTime="139850" endTime="140050"></Effect>
+        <Effect label="" startTime="140050" endTime="140200"></Effect>
+        <Effect label="" startTime="140200" endTime="140350"></Effect>
+        <Effect label="" startTime="140350" endTime="140500"></Effect>
+        <Effect label="" startTime="140500" endTime="140650"></Effect>
+        <Effect label="" startTime="140650" endTime="140825"></Effect>
+        <Effect label="" startTime="140825" endTime="140975"></Effect>
+        <Effect label="" startTime="140975" endTime="141125"></Effect>
+        <Effect label="" startTime="141125" endTime="141300"></Effect>
+        <Effect label="" startTime="141300" endTime="141450"></Effect>
+        <Effect label="" startTime="141450" endTime="141625"></Effect>
+        <Effect label="" startTime="141625" endTime="141800"></Effect>
+        <Effect label="" startTime="141800" endTime="141950"></Effect>
+        <Effect label="" startTime="141950" endTime="142100"></Effect>
+        <Effect label="" startTime="142100" endTime="142250"></Effect>
+        <Effect label="" startTime="142250" endTime="142425"></Effect>
+        <Effect label="" startTime="142425" endTime="142600"></Effect>
+        <Effect label="" startTime="142600" endTime="142750"></Effect>
+        <Effect label="" startTime="142750" endTime="142900"></Effect>
+        <Effect label="" startTime="142900" endTime="143075"></Effect>
+        <Effect label="" startTime="143075" endTime="143225"></Effect>
+        <Effect label="" startTime="143225" endTime="143400"></Effect>
+        <Effect label="" startTime="143400" endTime="143550"></Effect>
+        <Effect label="" startTime="143550" endTime="143725"></Effect>
+        <Effect label="" startTime="143725" endTime="143875"></Effect>
+        <Effect label="" startTime="143875" endTime="144050"></Effect>
+        <Effect label="" startTime="144050" endTime="144225"></Effect>
+        <Effect label="" startTime="144225" endTime="144400"></Effect>
+        <Effect label="" startTime="144400" endTime="144550"></Effect>
+        <Effect label="" startTime="144550" endTime="144700"></Effect>
+        <Effect label="" startTime="144700" endTime="144850"></Effect>
+        <Effect label="" startTime="144850" endTime="145000"></Effect>
+        <Effect label="" startTime="145000" endTime="145150"></Effect>
+        <Effect label="" startTime="145150" endTime="145325"></Effect>
+        <Effect label="" startTime="145325" endTime="145475"></Effect>
+        <Effect label="" startTime="145475" endTime="145650"></Effect>
+        <Effect label="" startTime="145650" endTime="145800"></Effect>
+        <Effect label="" startTime="145800" endTime="145975"></Effect>
+        <Effect label="" startTime="145975" endTime="146125"></Effect>
+        <Effect label="" startTime="146125" endTime="146300"></Effect>
+        <Effect label="" startTime="146300" endTime="146450"></Effect>
+        <Effect label="" startTime="146450" endTime="146625"></Effect>
+        <Effect label="" startTime="146625" endTime="146775"></Effect>
+        <Effect label="" startTime="146775" endTime="146950"></Effect>
+        <Effect label="" startTime="146950" endTime="147125"></Effect>
+        <Effect label="" startTime="147125" endTime="147300"></Effect>
+        <Effect label="" startTime="147300" endTime="147450"></Effect>
+        <Effect label="" startTime="147450" endTime="147600"></Effect>
+        <Effect label="" startTime="147600" endTime="147775"></Effect>
+        <Effect label="" startTime="147775" endTime="147950"></Effect>
+        <Effect label="" startTime="147950" endTime="148125"></Effect>
+        <Effect label="" startTime="148125" endTime="148275"></Effect>
+        <Effect label="" startTime="148275" endTime="148425"></Effect>
+        <Effect label="" startTime="148425" endTime="148550"></Effect>
+        <Effect label="" startTime="148550" endTime="148775"></Effect>
+        <Effect label="" startTime="148775" endTime="148925"></Effect>
+        <Effect label="" startTime="148925" endTime="149075"></Effect>
+        <Effect label="" startTime="149075" endTime="149250"></Effect>
+        <Effect label="" startTime="149250" endTime="149400"></Effect>
+        <Effect label="" startTime="149400" endTime="149525"></Effect>
+        <Effect label="" startTime="149525" endTime="149725"></Effect>
+        <Effect label="" startTime="149725" endTime="149875"></Effect>
+        <Effect label="" startTime="149875" endTime="150025"></Effect>
+        <Effect label="" startTime="150025" endTime="150175"></Effect>
+        <Effect label="" startTime="150175" endTime="150350"></Effect>
+        <Effect label="" startTime="150350" endTime="150525"></Effect>
+        <Effect label="" startTime="150525" endTime="150700"></Effect>
+        <Effect label="" startTime="150700" endTime="150850"></Effect>
+        <Effect label="" startTime="150850" endTime="151000"></Effect>
+        <Effect label="" startTime="151000" endTime="151150"></Effect>
+        <Effect label="" startTime="151150" endTime="151300"></Effect>
+        <Effect label="" startTime="151300" endTime="151450"></Effect>
+        <Effect label="" startTime="151450" endTime="151650"></Effect>
+        <Effect label="" startTime="151650" endTime="151825"></Effect>
+        <Effect label="" startTime="151825" endTime="151975"></Effect>
+        <Effect label="" startTime="151975" endTime="152125"></Effect>
+        <Effect label="" startTime="152125" endTime="152275"></Effect>
+        <Effect label="" startTime="152275" endTime="152425"></Effect>
+        <Effect label="" startTime="152425" endTime="152575"></Effect>
+        <Effect label="" startTime="152575" endTime="152750"></Effect>
+        <Effect label="" startTime="152750" endTime="152925"></Effect>
+        <Effect label="" startTime="152925" endTime="153075"></Effect>
+        <Effect label="" startTime="153075" endTime="153250"></Effect>
+        <Effect label="" startTime="153250" endTime="153400"></Effect>
+        <Effect label="" startTime="153400" endTime="153550"></Effect>
+        <Effect label="" startTime="153550" endTime="153700"></Effect>
+        <Effect label="" startTime="153700" endTime="153875"></Effect>
+        <Effect label="" startTime="153875" endTime="154050"></Effect>
+        <Effect label="" startTime="154050" endTime="154200"></Effect>
+        <Effect label="" startTime="154200" endTime="154350"></Effect>
+        <Effect label="" startTime="154350" endTime="154525"></Effect>
+        <Effect label="" startTime="154525" endTime="154725"></Effect>
+        <Effect label="" startTime="154725" endTime="154900"></Effect>
+        <Effect label="" startTime="154900" endTime="155050"></Effect>
+        <Effect label="" startTime="155050" endTime="155200"></Effect>
+        <Effect label="" startTime="155200" endTime="155325"></Effect>
+        <Effect label="" startTime="155325" endTime="155500"></Effect>
+        <Effect label="" startTime="155500" endTime="155675"></Effect>
+        <Effect label="" startTime="155675" endTime="155825"></Effect>
+        <Effect label="" startTime="155825" endTime="155975"></Effect>
+        <Effect label="" startTime="155975" endTime="156125"></Effect>
+        <Effect label="" startTime="156125" endTime="156275"></Effect>
+        <Effect label="" startTime="156275" endTime="156450"></Effect>
+        <Effect label="" startTime="156450" endTime="156625"></Effect>
+        <Effect label="" startTime="156625" endTime="156775"></Effect>
+        <Effect label="" startTime="156775" endTime="156925"></Effect>
+        <Effect label="" startTime="156925" endTime="157100"></Effect>
+        <Effect label="" startTime="157100" endTime="157250"></Effect>
+        <Effect label="" startTime="157250" endTime="157400"></Effect>
+        <Effect label="" startTime="157400" endTime="157575"></Effect>
+        <Effect label="" startTime="157575" endTime="157725"></Effect>
+        <Effect label="" startTime="157725" endTime="157900"></Effect>
+        <Effect label="" startTime="157900" endTime="158050"></Effect>
+        <Effect label="" startTime="158050" endTime="158250"></Effect>
+        <Effect label="" startTime="158250" endTime="158375"></Effect>
+        <Effect label="" startTime="158375" endTime="158525"></Effect>
+        <Effect label="" startTime="158525" endTime="158700"></Effect>
+        <Effect label="" startTime="158700" endTime="158850"></Effect>
+        <Effect label="" startTime="158850" endTime="159025"></Effect>
+        <Effect label="" startTime="159025" endTime="159200"></Effect>
+        <Effect label="" startTime="159200" endTime="159350"></Effect>
+        <Effect label="" startTime="159350" endTime="159500"></Effect>
+        <Effect label="" startTime="159500" endTime="159650"></Effect>
+        <Effect label="" startTime="159650" endTime="159825"></Effect>
+        <Effect label="" startTime="159825" endTime="160000"></Effect>
+        <Effect label="" startTime="160000" endTime="160150"></Effect>
+        <Effect label="" startTime="160150" endTime="160300"></Effect>
+        <Effect label="" startTime="160300" endTime="160475"></Effect>
+        <Effect label="" startTime="160475" endTime="160625"></Effect>
+        <Effect label="" startTime="160625" endTime="160800"></Effect>
+        <Effect label="" startTime="160800" endTime="160950"></Effect>
+        <Effect label="" startTime="160950" endTime="161100"></Effect>
+        <Effect label="" startTime="161100" endTime="161275"></Effect>
+        <Effect label="" startTime="161275" endTime="161425"></Effect>
+        <Effect label="" startTime="161425" endTime="161600"></Effect>
+        <Effect label="" startTime="161600" endTime="161750"></Effect>
+        <Effect label="" startTime="161750" endTime="161925"></Effect>
+        <Effect label="" startTime="161925" endTime="162075"></Effect>
+        <Effect label="" startTime="162075" endTime="162250"></Effect>
+        <Effect label="" startTime="162250" endTime="162425"></Effect>
+        <Effect label="" startTime="162425" endTime="162600"></Effect>
+        <Effect label="" startTime="162600" endTime="162750"></Effect>
+        <Effect label="" startTime="162750" endTime="162925"></Effect>
+        <Effect label="" startTime="162925" endTime="163075"></Effect>
+        <Effect label="" startTime="163075" endTime="163225"></Effect>
+        <Effect label="" startTime="163225" endTime="163375"></Effect>
+        <Effect label="" startTime="163375" endTime="163550"></Effect>
+        <Effect label="" startTime="163550" endTime="163700"></Effect>
+        <Effect label="" startTime="163700" endTime="163850"></Effect>
+        <Effect label="" startTime="163850" endTime="164000"></Effect>
+        <Effect label="" startTime="164000" endTime="164175"></Effect>
+        <Effect label="" startTime="164175" endTime="164325"></Effect>
+        <Effect label="" startTime="164325" endTime="164500"></Effect>
+        <Effect label="" startTime="164500" endTime="164650"></Effect>
+        <Effect label="" startTime="164650" endTime="164825"></Effect>
+        <Effect label="" startTime="164825" endTime="164975"></Effect>
+        <Effect label="" startTime="164975" endTime="165150"></Effect>
+        <Effect label="" startTime="165150" endTime="165300"></Effect>
+        <Effect label="" startTime="165300" endTime="165475"></Effect>
+        <Effect label="" startTime="165475" endTime="165650"></Effect>
+        <Effect label="" startTime="165650" endTime="165800"></Effect>
+        <Effect label="" startTime="165800" endTime="165950"></Effect>
+        <Effect label="" startTime="165950" endTime="166100"></Effect>
+        <Effect label="" startTime="166100" endTime="166275"></Effect>
+        <Effect label="" startTime="166275" endTime="166425"></Effect>
+        <Effect label="" startTime="166425" endTime="166600"></Effect>
+        <Effect label="" startTime="166600" endTime="166750"></Effect>
+        <Effect label="" startTime="166750" endTime="166900"></Effect>
+        <Effect label="" startTime="166900" endTime="167075"></Effect>
+        <Effect label="" startTime="167075" endTime="167250"></Effect>
+        <Effect label="" startTime="167250" endTime="167400"></Effect>
+        <Effect label="" startTime="167400" endTime="167550"></Effect>
+        <Effect label="" startTime="167550" endTime="167725"></Effect>
+        <Effect label="" startTime="167725" endTime="167875"></Effect>
+        <Effect label="" startTime="167875" endTime="168050"></Effect>
+        <Effect label="" startTime="168050" endTime="168225"></Effect>
+        <Effect label="" startTime="168225" endTime="168400"></Effect>
+        <Effect label="" startTime="168400" endTime="168550"></Effect>
+        <Effect label="" startTime="168550" endTime="168725"></Effect>
+        <Effect label="" startTime="168725" endTime="168875"></Effect>
+        <Effect label="" startTime="168875" endTime="169025"></Effect>
+        <Effect label="" startTime="169025" endTime="169175"></Effect>
+        <Effect label="" startTime="169175" endTime="169350"></Effect>
+        <Effect label="" startTime="169350" endTime="169500"></Effect>
+        <Effect label="" startTime="169500" endTime="169650"></Effect>
+        <Effect label="" startTime="169650" endTime="169825"></Effect>
+        <Effect label="" startTime="169825" endTime="169975"></Effect>
+        <Effect label="" startTime="169975" endTime="170150"></Effect>
+        <Effect label="" startTime="170150" endTime="170300"></Effect>
+        <Effect label="" startTime="170300" endTime="170450"></Effect>
+        <Effect label="" startTime="170450" endTime="170625"></Effect>
+        <Effect label="" startTime="170625" endTime="170800"></Effect>
+        <Effect label="" startTime="170800" endTime="170950"></Effect>
+        <Effect label="" startTime="170950" endTime="171100"></Effect>
+        <Effect label="" startTime="171100" endTime="171275"></Effect>
+        <Effect label="" startTime="171275" endTime="171425"></Effect>
+        <Effect label="" startTime="171425" endTime="171600"></Effect>
+        <Effect label="" startTime="171600" endTime="171750"></Effect>
+        <Effect label="" startTime="171750" endTime="171900"></Effect>
+        <Effect label="" startTime="171900" endTime="172075"></Effect>
+        <Effect label="" startTime="172075" endTime="172225"></Effect>
+        <Effect label="" startTime="172225" endTime="172400"></Effect>
+        <Effect label="" startTime="172400" endTime="172550"></Effect>
+        <Effect label="" startTime="172550" endTime="172725"></Effect>
+        <Effect label="" startTime="172725" endTime="172875"></Effect>
+        <Effect label="" startTime="172875" endTime="173025"></Effect>
+        <Effect label="" startTime="173025" endTime="173200"></Effect>
+        <Effect label="" startTime="173200" endTime="173350"></Effect>
+        <Effect label="" startTime="173350" endTime="173525"></Effect>
+        <Effect label="" startTime="173525" endTime="173700"></Effect>
+        <Effect label="" startTime="173700" endTime="173850"></Effect>
+        <Effect label="" startTime="173850" endTime="174000"></Effect>
+        <Effect label="" startTime="174000" endTime="174175"></Effect>
+        <Effect label="" startTime="174175" endTime="174350"></Effect>
+        <Effect label="" startTime="174350" endTime="174500"></Effect>
+        <Effect label="" startTime="174500" endTime="174650"></Effect>
+        <Effect label="" startTime="174650" endTime="174800"></Effect>
+        <Effect label="" startTime="174800" endTime="174975"></Effect>
+        <Effect label="" startTime="174975" endTime="175125"></Effect>
+        <Effect label="" startTime="175125" endTime="175300"></Effect>
+        <Effect label="" startTime="175300" endTime="175450"></Effect>
+        <Effect label="" startTime="175450" endTime="175600"></Effect>
+        <Effect label="" startTime="175600" endTime="175800"></Effect>
+        <Effect label="" startTime="175800" endTime="175950"></Effect>
+        <Effect label="" startTime="175950" endTime="176100"></Effect>
+        <Effect label="" startTime="176100" endTime="176250"></Effect>
+        <Effect label="" startTime="176250" endTime="176425"></Effect>
+        <Effect label="" startTime="176425" endTime="176575"></Effect>
+        <Effect label="" startTime="176575" endTime="176750"></Effect>
+        <Effect label="" startTime="176750" endTime="176900"></Effect>
+        <Effect label="" startTime="176900" endTime="177075"></Effect>
+        <Effect label="" startTime="177075" endTime="177225"></Effect>
+        <Effect label="" startTime="177225" endTime="177375"></Effect>
+        <Effect label="" startTime="177375" endTime="177525"></Effect>
+        <Effect label="" startTime="177525" endTime="177725"></Effect>
+        <Effect label="" startTime="177725" endTime="177875"></Effect>
+        <Effect label="" startTime="177875" endTime="178050"></Effect>
+        <Effect label="" startTime="178050" endTime="178200"></Effect>
+        <Effect label="" startTime="178200" endTime="178350"></Effect>
+        <Effect label="" startTime="178350" endTime="178500"></Effect>
+        <Effect label="" startTime="178500" endTime="178675"></Effect>
+        <Effect label="" startTime="178675" endTime="178850"></Effect>
+        <Effect label="" startTime="178850" endTime="179000"></Effect>
+        <Effect label="" startTime="179000" endTime="179175"></Effect>
+        <Effect label="" startTime="179175" endTime="179325"></Effect>
+        <Effect label="" startTime="179325" endTime="179500"></Effect>
+        <Effect label="" startTime="179500" endTime="179650"></Effect>
+        <Effect label="" startTime="179650" endTime="179825"></Effect>
+        <Effect label="" startTime="179825" endTime="179975"></Effect>
+        <Effect label="" startTime="179975" endTime="180150"></Effect>
+        <Effect label="" startTime="180150" endTime="180300"></Effect>
+        <Effect label="" startTime="180300" endTime="180475"></Effect>
+        <Effect label="" startTime="180475" endTime="180625"></Effect>
+        <Effect label="" startTime="180625" endTime="180800"></Effect>
+        <Effect label="" startTime="180800" endTime="180975"></Effect>
+        <Effect label="" startTime="180975" endTime="181125"></Effect>
+        <Effect label="" startTime="181125" endTime="181275"></Effect>
+        <Effect label="" startTime="181275" endTime="181450"></Effect>
+        <Effect label="" startTime="181450" endTime="181600"></Effect>
+        <Effect label="" startTime="181600" endTime="181775"></Effect>
+        <Effect label="" startTime="181775" endTime="181925"></Effect>
+        <Effect label="" startTime="181925" endTime="182100"></Effect>
+        <Effect label="" startTime="182100" endTime="182250"></Effect>
+        <Effect label="" startTime="182250" endTime="182425"></Effect>
+        <Effect label="" startTime="182425" endTime="182600"></Effect>
+        <Effect label="" startTime="182600" endTime="182750"></Effect>
+        <Effect label="" startTime="182750" endTime="182900"></Effect>
+        <Effect label="" startTime="182900" endTime="183050"></Effect>
+        <Effect label="" startTime="183050" endTime="183225"></Effect>
+        <Effect label="" startTime="183225" endTime="183375"></Effect>
+        <Effect label="" startTime="183375" endTime="183550"></Effect>
+        <Effect label="" startTime="183550" endTime="183700"></Effect>
+        <Effect label="" startTime="183700" endTime="183850"></Effect>
+        <Effect label="" startTime="183850" endTime="184000"></Effect>
+        <Effect label="" startTime="184000" endTime="184150"></Effect>
+        <Effect label="" startTime="184150" endTime="184300"></Effect>
+        <Effect label="" startTime="184300" endTime="184475"></Effect>
+        <Effect label="" startTime="184475" endTime="184650"></Effect>
+        <Effect label="" startTime="184650" endTime="184825"></Effect>
+        <Effect label="" startTime="184825" endTime="185000"></Effect>
+        <Effect label="" startTime="185000" endTime="185150"></Effect>
+        <Effect label="" startTime="185150" endTime="185275"></Effect>
+        <Effect label="" startTime="185275" endTime="185450"></Effect>
+        <Effect label="" startTime="185450" endTime="185625"></Effect>
+        <Effect label="" startTime="185625" endTime="185800"></Effect>
+        <Effect label="" startTime="185800" endTime="185950"></Effect>
+        <Effect label="" startTime="185950" endTime="186100"></Effect>
+        <Effect label="" startTime="186100" endTime="186250"></Effect>
+        <Effect label="" startTime="186250" endTime="186400"></Effect>
+        <Effect label="" startTime="186400" endTime="186575"></Effect>
+        <Effect label="" startTime="186575" endTime="186725"></Effect>
+        <Effect label="" startTime="186725" endTime="186900"></Effect>
+        <Effect label="" startTime="186900" endTime="187050"></Effect>
+        <Effect label="" startTime="187050" endTime="187225"></Effect>
+        <Effect label="" startTime="187225" endTime="187400"></Effect>
+        <Effect label="" startTime="187400" endTime="187550"></Effect>
+        <Effect label="" startTime="187550" endTime="187700"></Effect>
+        <Effect label="" startTime="187700" endTime="187875"></Effect>
+        <Effect label="" startTime="187875" endTime="188025"></Effect>
+        <Effect label="" startTime="188025" endTime="188200"></Effect>
+        <Effect label="" startTime="188200" endTime="188350"></Effect>
+        <Effect label="" startTime="188350" endTime="188500"></Effect>
+        <Effect label="" startTime="188500" endTime="188675"></Effect>
+        <Effect label="" startTime="188675" endTime="188850"></Effect>
+        <Effect label="" startTime="188850" endTime="189000"></Effect>
+        <Effect label="" startTime="189000" endTime="189150"></Effect>
+        <Effect label="" startTime="189150" endTime="189325"></Effect>
+        <Effect label="" startTime="189325" endTime="189475"></Effect>
+        <Effect label="" startTime="189475" endTime="189650"></Effect>
+        <Effect label="" startTime="189650" endTime="189800"></Effect>
+        <Effect label="" startTime="189800" endTime="189950"></Effect>
+        <Effect label="" startTime="189950" endTime="190125"></Effect>
+        <Effect label="" startTime="190125" endTime="190300"></Effect>
+        <Effect label="" startTime="190300" endTime="190450"></Effect>
+        <Effect label="" startTime="190450" endTime="190625"></Effect>
+        <Effect label="" startTime="190625" endTime="190775"></Effect>
+        <Effect label="" startTime="190775" endTime="190950"></Effect>
+        <Effect label="" startTime="190950" endTime="191075"></Effect>
+        <Effect label="" startTime="191075" endTime="191225"></Effect>
+        <Effect label="" startTime="191225" endTime="191375"></Effect>
+        <Effect label="" startTime="191375" endTime="191525"></Effect>
+        <Effect label="" startTime="191525" endTime="191650"></Effect>
+        <Effect label="" startTime="191650" endTime="191800"></Effect>
+        <Effect label="" startTime="191800" endTime="191950"></Effect>
+        <Effect label="" startTime="191950" endTime="192125"></Effect>
+        <Effect label="" startTime="192125" endTime="192275"></Effect>
+        <Effect label="" startTime="192275" endTime="192425"></Effect>
+        <Effect label="" startTime="192425" endTime="192575"></Effect>
+        <Effect label="" startTime="192575" endTime="192750"></Effect>
+        <Effect label="" startTime="192750" endTime="192900"></Effect>
+        <Effect label="" startTime="192900" endTime="193075"></Effect>
+        <Effect label="" startTime="193075" endTime="193250"></Effect>
+        <Effect label="" startTime="193250" endTime="193450"></Effect>
+        <Effect label="" startTime="193450" endTime="193625"></Effect>
+        <Effect label="" startTime="193625" endTime="193800"></Effect>
+        <Effect label="" startTime="193800" endTime="193950"></Effect>
+        <Effect label="" startTime="193950" endTime="194125"></Effect>
+        <Effect label="" startTime="194125" endTime="194300"></Effect>
+        <Effect label="" startTime="194300" endTime="194475"></Effect>
+        <Effect label="" startTime="194475" endTime="194650"></Effect>
+        <Effect label="" startTime="194650" endTime="194800"></Effect>
+        <Effect label="" startTime="194800" endTime="194975"></Effect>
+        <Effect label="" startTime="194975" endTime="195150"></Effect>
+        <Effect label="" startTime="195150" endTime="195325"></Effect>
+        <Effect label="" startTime="195325" endTime="195475"></Effect>
+        <Effect label="" startTime="195475" endTime="195625"></Effect>
+        <Effect label="" startTime="195625" endTime="195800"></Effect>
+        <Effect label="" startTime="195800" endTime="195950"></Effect>
+        <Effect label="" startTime="195950" endTime="196125"></Effect>
+        <Effect label="" startTime="196125" endTime="196300"></Effect>
+        <Effect label="" startTime="196300" endTime="196475"></Effect>
+        <Effect label="" startTime="196475" endTime="196650"></Effect>
+        <Effect label="" startTime="196650" endTime="196850"></Effect>
+        <Effect label="" startTime="196850" endTime="197025"></Effect>
+        <Effect label="" startTime="197025" endTime="197225"></Effect>
+        <Effect label="" startTime="197225" endTime="197425"></Effect>
+        <Effect label="" startTime="197425" endTime="197600"></Effect>
+        <Effect label="" startTime="197600" endTime="197800"></Effect>
+        <Effect label="" startTime="197800" endTime="197950"></Effect>
+        <Effect label="" startTime="197950" endTime="198100"></Effect>
+        <Effect label="" startTime="198100" endTime="198250"></Effect>
+        <Effect label="" startTime="198250" endTime="198400"></Effect>
+        <Effect label="" startTime="198400" endTime="198575"></Effect>
+        <Effect label="" startTime="198575" endTime="198725"></Effect>
+        <Effect label="" startTime="198725" endTime="198900"></Effect>
+        <Effect label="" startTime="198900" endTime="199050"></Effect>
+        <Effect label="" startTime="199050" endTime="199200"></Effect>
+        <Effect label="" startTime="199200" endTime="199350"></Effect>
+        <Effect label="" startTime="199350" endTime="199500"></Effect>
+        <Effect label="" startTime="199500" endTime="199675"></Effect>
+        <Effect label="" startTime="199675" endTime="199825"></Effect>
+        <Effect label="" startTime="199825" endTime="199975"></Effect>
+        <Effect label="" startTime="199975" endTime="200150"></Effect>
+        <Effect label="" startTime="200150" endTime="200300"></Effect>
+        <Effect label="" startTime="200300" endTime="200450"></Effect>
+        <Effect label="" startTime="200450" endTime="200600"></Effect>
+        <Effect label="" startTime="200600" endTime="200775"></Effect>
+        <Effect label="" startTime="200775" endTime="200925"></Effect>
+        <Effect label="" startTime="200925" endTime="201075"></Effect>
+        <Effect label="" startTime="201075" endTime="201250"></Effect>
+        <Effect label="" startTime="201250" endTime="201400"></Effect>
+        <Effect label="" startTime="201400" endTime="201550"></Effect>
+        <Effect label="" startTime="201550" endTime="201700"></Effect>
+        <Effect label="" startTime="201700" endTime="201850"></Effect>
+        <Effect label="" startTime="201850" endTime="202025"></Effect>
+        <Effect label="" startTime="202025" endTime="202175"></Effect>
+        <Effect label="" startTime="202175" endTime="202350"></Effect>
+        <Effect label="" startTime="202350" endTime="202500"></Effect>
+        <Effect label="" startTime="202500" endTime="202650"></Effect>
+        <Effect label="" startTime="202650" endTime="202800"></Effect>
+        <Effect label="" startTime="202800" endTime="202975"></Effect>
+        <Effect label="" startTime="202975" endTime="203125"></Effect>
+        <Effect label="" startTime="203125" endTime="203275"></Effect>
+        <Effect label="" startTime="203275" endTime="203425"></Effect>
+        <Effect label="" startTime="203425" endTime="203600"></Effect>
+        <Effect label="" startTime="203600" endTime="203750"></Effect>
+        <Effect label="" startTime="203750" endTime="203900"></Effect>
+        <Effect label="" startTime="203900" endTime="204050"></Effect>
+        <Effect label="" startTime="204050" endTime="204225"></Effect>
+        <Effect label="" startTime="204225" endTime="204375"></Effect>
+        <Effect label="" startTime="204375" endTime="204525"></Effect>
+        <Effect label="" startTime="204525" endTime="204700"></Effect>
+        <Effect label="" startTime="204700" endTime="204850"></Effect>
+        <Effect label="" startTime="204850" endTime="205000"></Effect>
+        <Effect label="" startTime="205000" endTime="205175"></Effect>
+      </EffectLayer>
+    </Element>
+    <Element type="timing" name="Measures">
+      <EffectLayer>
+        <Effect label="" startTime="0" endTime="1650"></Effect>
+        <Effect label="" startTime="1650" endTime="32625"></Effect>
+        <Effect label="" startTime="32625" endTime="33600"></Effect>
+        <Effect label="" startTime="33600" endTime="34575"></Effect>
+        <Effect label="" startTime="34575" endTime="35550"></Effect>
+        <Effect label="" startTime="35550" endTime="36525"></Effect>
+        <Effect label="" startTime="36525" endTime="37450"></Effect>
+        <Effect label="" startTime="37450" endTime="38450"></Effect>
+        <Effect label="" startTime="38450" endTime="39400"></Effect>
+        <Effect label="" startTime="39400" endTime="40375"></Effect>
+        <Effect label="" startTime="40375" endTime="41400"></Effect>
+        <Effect label="" startTime="41400" endTime="42300"></Effect>
+        <Effect label="" startTime="42300" endTime="43275"></Effect>
+        <Effect label="" startTime="43275" endTime="44250"></Effect>
+        <Effect label="" startTime="44250" endTime="45150"></Effect>
+        <Effect label="" startTime="45150" endTime="46175"></Effect>
+        <Effect label="" startTime="46175" endTime="47100"></Effect>
+        <Effect label="" startTime="47100" endTime="48100"></Effect>
+        <Effect label="" startTime="48100" endTime="49100"></Effect>
+        <Effect label="" startTime="49100" endTime="50025"></Effect>
+        <Effect label="" startTime="50025" endTime="51000"></Effect>
+        <Effect label="" startTime="51000" endTime="51975"></Effect>
+        <Effect label="" startTime="51975" endTime="53000"></Effect>
+        <Effect label="" startTime="53000" endTime="53925"></Effect>
+        <Effect label="" startTime="53925" endTime="54900"></Effect>
+        <Effect label="" startTime="54900" endTime="55875"></Effect>
+        <Effect label="" startTime="55875" endTime="56800"></Effect>
+        <Effect label="" startTime="56800" endTime="57775"></Effect>
+        <Effect label="" startTime="57775" endTime="58750"></Effect>
+        <Effect label="" startTime="58750" endTime="59725"></Effect>
+        <Effect label="" startTime="59725" endTime="60675"></Effect>
+        <Effect label="" startTime="60675" endTime="61650"></Effect>
+        <Effect label="" startTime="61650" endTime="62600"></Effect>
+        <Effect label="" startTime="62600" endTime="63575"></Effect>
+        <Effect label="" startTime="63575" endTime="64550"></Effect>
+        <Effect label="" startTime="64550" endTime="65475"></Effect>
+        <Effect label="" startTime="65475" endTime="66475"></Effect>
+        <Effect label="" startTime="66475" endTime="67450"></Effect>
+        <Effect label="" startTime="67450" endTime="68450"></Effect>
+        <Effect label="" startTime="68450" endTime="69350"></Effect>
+        <Effect label="" startTime="69350" endTime="70350"></Effect>
+        <Effect label="" startTime="70350" endTime="71300"></Effect>
+        <Effect label="" startTime="71300" endTime="72300"></Effect>
+        <Effect label="" startTime="72300" endTime="73250"></Effect>
+        <Effect label="" startTime="73250" endTime="74250"></Effect>
+        <Effect label="" startTime="74250" endTime="75175"></Effect>
+        <Effect label="" startTime="75175" endTime="76150"></Effect>
+        <Effect label="" startTime="76150" endTime="77100"></Effect>
+        <Effect label="" startTime="77100" endTime="78100"></Effect>
+        <Effect label="" startTime="78100" endTime="79050"></Effect>
+        <Effect label="" startTime="79050" endTime="80000"></Effect>
+        <Effect label="" startTime="80000" endTime="80900"></Effect>
+        <Effect label="" startTime="80900" endTime="80975"></Effect>
+        <Effect label="" startTime="80975" endTime="81925"></Effect>
+        <Effect label="" startTime="81925" endTime="82900"></Effect>
+        <Effect label="" startTime="82900" endTime="83875"></Effect>
+        <Effect label="" startTime="83875" endTime="84875"></Effect>
+        <Effect label="" startTime="84875" endTime="85875"></Effect>
+        <Effect label="" startTime="85875" endTime="86775"></Effect>
+        <Effect label="" startTime="86775" endTime="87750"></Effect>
+        <Effect label="" startTime="87750" endTime="88700"></Effect>
+        <Effect label="" startTime="88700" endTime="89675"></Effect>
+        <Effect label="" startTime="89675" endTime="90650"></Effect>
+        <Effect label="" startTime="90650" endTime="91650"></Effect>
+        <Effect label="" startTime="91650" endTime="92575"></Effect>
+        <Effect label="" startTime="92575" endTime="93575"></Effect>
+        <Effect label="" startTime="93575" endTime="94500"></Effect>
+        <Effect label="" startTime="94500" endTime="95500"></Effect>
+        <Effect label="" startTime="95500" endTime="96400"></Effect>
+        <Effect label="" startTime="96400" endTime="97400"></Effect>
+        <Effect label="" startTime="97400" endTime="98350"></Effect>
+        <Effect label="" startTime="98350" endTime="99300"></Effect>
+        <Effect label="" startTime="99300" endTime="100250"></Effect>
+        <Effect label="" startTime="100250" endTime="101225"></Effect>
+        <Effect label="" startTime="101225" endTime="102200"></Effect>
+        <Effect label="" startTime="102200" endTime="103150"></Effect>
+        <Effect label="" startTime="103150" endTime="104100"></Effect>
+        <Effect label="" startTime="104100" endTime="105100"></Effect>
+        <Effect label="" startTime="105100" endTime="106025"></Effect>
+        <Effect label="" startTime="106025" endTime="107000"></Effect>
+        <Effect label="" startTime="107000" endTime="107950"></Effect>
+        <Effect label="" startTime="107950" endTime="108925"></Effect>
+        <Effect label="" startTime="108925" endTime="109900"></Effect>
+        <Effect label="" startTime="109900" endTime="110850"></Effect>
+        <Effect label="" startTime="110850" endTime="111825"></Effect>
+        <Effect label="" startTime="111825" endTime="112800"></Effect>
+        <Effect label="" startTime="112800" endTime="113800"></Effect>
+        <Effect label="" startTime="113800" endTime="114750"></Effect>
+        <Effect label="" startTime="114750" endTime="115700"></Effect>
+        <Effect label="" startTime="115700" endTime="116700"></Effect>
+        <Effect label="" startTime="116700" endTime="117625"></Effect>
+        <Effect label="" startTime="117625" endTime="118575"></Effect>
+        <Effect label="" startTime="118575" endTime="119575"></Effect>
+        <Effect label="" startTime="119575" endTime="120550"></Effect>
+        <Effect label="" startTime="120550" endTime="121475"></Effect>
+        <Effect label="" startTime="121475" endTime="122450"></Effect>
+        <Effect label="" startTime="122450" endTime="123425"></Effect>
+        <Effect label="" startTime="123425" endTime="124400"></Effect>
+        <Effect label="" startTime="124400" endTime="125350"></Effect>
+        <Effect label="" startTime="125350" endTime="126350"></Effect>
+        <Effect label="" startTime="126350" endTime="127300"></Effect>
+        <Effect label="" startTime="127300" endTime="128275"></Effect>
+        <Effect label="" startTime="128275" endTime="129200"></Effect>
+        <Effect label="" startTime="129200" endTime="130200"></Effect>
+        <Effect label="" startTime="130200" endTime="131150"></Effect>
+        <Effect label="" startTime="131150" endTime="132125"></Effect>
+        <Effect label="" startTime="132125" endTime="133075"></Effect>
+        <Effect label="" startTime="133075" endTime="134050"></Effect>
+        <Effect label="" startTime="134050" endTime="135000"></Effect>
+        <Effect label="" startTime="135000" endTime="135975"></Effect>
+        <Effect label="" startTime="135975" endTime="136975"></Effect>
+        <Effect label="" startTime="136975" endTime="137925"></Effect>
+        <Effect label="" startTime="137925" endTime="138900"></Effect>
+        <Effect label="" startTime="138900" endTime="139850"></Effect>
+        <Effect label="" startTime="139850" endTime="140825"></Effect>
+        <Effect label="" startTime="140825" endTime="141800"></Effect>
+        <Effect label="" startTime="141800" endTime="142725"></Effect>
+        <Effect label="" startTime="142725" endTime="143725"></Effect>
+        <Effect label="" startTime="143725" endTime="144700"></Effect>
+        <Effect label="" startTime="144700" endTime="145675"></Effect>
+        <Effect label="" startTime="145675" endTime="146625"></Effect>
+        <Effect label="" startTime="146625" endTime="147600"></Effect>
+        <Effect label="" startTime="147600" endTime="148550"></Effect>
+        <Effect label="" startTime="148550" endTime="149525"></Effect>
+        <Effect label="" startTime="149525" endTime="150525"></Effect>
+        <Effect label="" startTime="150525" endTime="151450"></Effect>
+        <Effect label="" startTime="151450" endTime="152425"></Effect>
+        <Effect label="" startTime="152425" endTime="153400"></Effect>
+        <Effect label="" startTime="153400" endTime="154350"></Effect>
+        <Effect label="" startTime="154350" endTime="155325"></Effect>
+        <Effect label="" startTime="155325" endTime="156275"></Effect>
+        <Effect label="" startTime="156275" endTime="158175"></Effect>
+        <Effect label="" startTime="158175" endTime="160150"></Effect>
+        <Effect label="" startTime="160150" endTime="161175"></Effect>
+        <Effect label="" startTime="161175" endTime="162075"></Effect>
+        <Effect label="" startTime="162075" endTime="163050"></Effect>
+        <Effect label="" startTime="163050" endTime="164000"></Effect>
+        <Effect label="" startTime="164000" endTime="164975"></Effect>
+        <Effect label="" startTime="164975" endTime="165950"></Effect>
+        <Effect label="" startTime="165950" endTime="166900"></Effect>
+        <Effect label="" startTime="166900" endTime="167875"></Effect>
+        <Effect label="" startTime="167875" endTime="168875"></Effect>
+        <Effect label="" startTime="168875" endTime="169825"></Effect>
+        <Effect label="" startTime="169825" endTime="170825"></Effect>
+        <Effect label="" startTime="170825" endTime="171750"></Effect>
+        <Effect label="" startTime="171750" endTime="172725"></Effect>
+        <Effect label="" startTime="172725" endTime="173700"></Effect>
+        <Effect label="" startTime="173700" endTime="174650"></Effect>
+        <Effect label="" startTime="174650" endTime="175600"></Effect>
+        <Effect label="" startTime="175600" endTime="176650"></Effect>
+        <Effect label="" startTime="176650" endTime="177525"></Effect>
+        <Effect label="" startTime="177525" endTime="178550"></Effect>
+        <Effect label="" startTime="178550" endTime="179500"></Effect>
+        <Effect label="" startTime="179500" endTime="180475"></Effect>
+        <Effect label="" startTime="180475" endTime="181450"></Effect>
+        <Effect label="" startTime="181450" endTime="182400"></Effect>
+        <Effect label="" startTime="182400" endTime="183375"></Effect>
+        <Effect label="" startTime="183375" endTime="184300"></Effect>
+        <Effect label="" startTime="184300" endTime="185275"></Effect>
+        <Effect label="" startTime="185275" endTime="186275"></Effect>
+        <Effect label="" startTime="186275" endTime="187225"></Effect>
+        <Effect label="" startTime="187225" endTime="188250"></Effect>
+        <Effect label="" startTime="188250" endTime="189225"></Effect>
+        <Effect label="" startTime="189225" endTime="190200"></Effect>
+        <Effect label="" startTime="190200" endTime="191075"></Effect>
+        <Effect label="" startTime="191075" endTime="201300"></Effect>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="All Strings">
+      <EffectLayer>
+        <Effect ref="0" name="Pinwheel" startTime="28950" endTime="31500" palette="0"/>
+        <Effect ref="1" name="Strobe" id="1" startTime="32625" endTime="39400" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Single Line">
+      <EffectLayer>
+        <Effect ref="2" name="Butterfly" startTime="250" endTime="625" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="1" startTime="1000" endTime="1375" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="2" startTime="1775" endTime="2150" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="3" startTime="2500" endTime="2875" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="4" startTime="3200" endTime="3575" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="5" startTime="3950" endTime="4325" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="6" startTime="4700" endTime="5075" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="7" startTime="5425" endTime="5800" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="8" startTime="6175" endTime="6550" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="9" startTime="6900" endTime="7275" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="10" startTime="7650" endTime="8025" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="11" startTime="8350" endTime="8725" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="12" startTime="9100" endTime="9475" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="13" startTime="9825" endTime="10200" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="14" startTime="10550" endTime="10925" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="15" startTime="11275" endTime="11650" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="16" startTime="12000" endTime="12375" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="17" startTime="12750" endTime="13125" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="18" startTime="13500" endTime="13875" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="19" startTime="14200" endTime="14575" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="20" startTime="14975" endTime="15350" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="21" startTime="15700" endTime="16075" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="22" startTime="16425" endTime="16800" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="23" startTime="17150" endTime="17525" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="24" startTime="17875" endTime="18250" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="25" startTime="18600" endTime="18975" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="26" startTime="19350" endTime="19725" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="27" startTime="20100" endTime="20475" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="28" startTime="20875" endTime="21250" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="29" startTime="21625" endTime="22000" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="30" startTime="22325" endTime="22700" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="31" startTime="23100" endTime="23475" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="32" startTime="23775" endTime="24150" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="33" startTime="24525" endTime="24900" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="34" startTime="25250" endTime="25625" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="35" startTime="25975" endTime="26350" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="36" startTime="26750" endTime="27125" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="37" startTime="27725" endTime="28100" palette="2"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Single Line-2">
+      <EffectLayer>
+        <Effect ref="2" name="Butterfly" startTime="625" endTime="1000" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="1" startTime="2125" endTime="2500" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="2" startTime="3575" endTime="3950" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="3" startTime="5050" endTime="5425" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="4" startTime="6525" endTime="6900" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="5" startTime="8000" endTime="8375" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="6" startTime="9450" endTime="9825" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="7" startTime="10925" endTime="11300" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="8" startTime="12375" endTime="12750" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="9" startTime="13825" endTime="14200" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="10" startTime="15325" endTime="15700" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="11" startTime="16775" endTime="17150" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="12" startTime="18225" endTime="18600" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="13" startTime="19700" endTime="20075" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="14" startTime="21250" endTime="21625" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="15" startTime="22675" endTime="23050" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="16" startTime="24100" endTime="24475" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="17" startTime="25650" endTime="26025" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="18" startTime="27250" endTime="27625" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="19" startTime="28250" endTime="28625" palette="2"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Single Line-3">
+      <EffectLayer>
+        <Effect ref="2" name="Butterfly" startTime="1400" endTime="1775" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="1" startTime="2850" endTime="3225" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="2" startTime="4325" endTime="4700" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="3" startTime="5800" endTime="6175" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="4" startTime="7275" endTime="7650" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="5" startTime="8725" endTime="9100" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="6" startTime="10200" endTime="10575" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="7" startTime="11650" endTime="12025" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="8" startTime="13125" endTime="13500" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="9" startTime="14600" endTime="14975" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="10" startTime="16075" endTime="16450" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="11" startTime="17500" endTime="17875" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="12" startTime="19000" endTime="19375" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="13" startTime="20475" endTime="20850" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="14" startTime="22000" endTime="22375" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="15" startTime="23450" endTime="23825" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="16" startTime="24875" endTime="25250" palette="2"/>
+        <Effect ref="2" name="Butterfly" id="17" startTime="26325" endTime="26700" palette="2"/>
+      </EffectLayer>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

@@ -1,0 +1,16 @@
+# local xlights backup content
+**/*.xbkp
+**/*.cache
+**/Backup/**
+
+# xlights things
+**/colorcurves/
+**/palettes/
+**/valuecurves/
+**/RenderCache/
+
+# personal assets
+**/background.jpg
+**/media/
+
+.DS_Store
