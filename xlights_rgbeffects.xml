@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xrgb>
   <models>
-    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" name="Single Line" LayoutGroup="Default" parm2="59" Controller="WLED Wallstrips" WorldPosX="42.3156" WorldPosY="392.9084" WorldPosZ="0.0000" X2="864.467651" Y2="-4.230682" Z2="0.000000" versionNumber="5" StartChannel="!WLED Wallstrips:1">
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" name="Single Line" LayoutGroup="Default" parm2="59" Controller="WLED Wallstrips" WorldPosX="111.8851" WorldPosY="317.0144" WorldPosZ="0.0000" X2="1122.657837" Y2="6.263885" Z2="0.000000" versionNumber="5" StartChannel="!WLED Wallstrips:1">
       <ControllerConnection Protocol="ws2811" Port="1"/>
     </model>
-    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" name="Single Line-2" LayoutGroup="Default" parm2="59" Controller="WLED Wallstrips" WorldPosX="40.9053" WorldPosY="352.0119" WorldPosZ="0.0000" X2="861.647278" Y2="1.410217" Z2="0.000000" versionNumber="5" StartChannel="!WLED Wallstrips:178">
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" name="Single Line-2" LayoutGroup="Default" parm2="59" Controller="WLED Wallstrips" WorldPosX="112.0559" WorldPosY="276.1180" WorldPosZ="0.0000" X2="1122.487061" Y2="5.260559" Z2="0.000000" versionNumber="5" StartChannel="!WLED Wallstrips:178">
       <ControllerConnection Protocol="ws2811" Port="2"/>
     </model>
-    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" name="Single Line-3" LayoutGroup="Default" parm2="59" Controller="WLED Wallstrips" WorldPosX="38.0849" WorldPosY="320.9870" WorldPosZ="0.0000" X2="863.057434" Y2="4.230652" Z2="0.000000" versionNumber="5" StartChannel="!WLED Wallstrips:355">
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" name="Single Line-3" LayoutGroup="Default" parm2="59" Controller="WLED Wallstrips" WorldPosX="110.8168" WorldPosY="236.3968" WorldPosZ="0.0000" X2="1123.726196" Y2="3.872421" Z2="0.000000" versionNumber="5" StartChannel="!WLED Wallstrips:355">
       <ControllerConnection Protocol="ws2811" Port="3"/>
     </model>
   </models>
@@ -30,7 +30,7 @@
     <storedLayoutGroup value="Default"/>
     <previewWidth value="1280"/>
     <previewHeight value="720"/>
-    <backgroundImage value="/Users/mitch/src/xlights-sequences-wallstrips/media/background.jpg"/>
+    <backgroundImage value="C:\src\xlights-sequences-wallstrips\media\background.jpg"/>
   </settings>
   <colors>
     <DisabledEffect Red="200" Green="200" Blue="0"/>
